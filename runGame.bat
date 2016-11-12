@@ -1,0 +1,1 @@
+.\halite.exe -d "70 70" "python MyBot.py" "python MyBot.py" "python MyBot.py" "python MyBot.py"
