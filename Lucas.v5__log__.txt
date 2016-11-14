@@ -5,2008 +5,234 @@ Turn 1, total=1, hits=0 (0.0)
 doing turn 2
 Turn 2, total=2, hits=0 (0.0)
 doing turn 3
-Turn 3, total=2, hits=2 (100.0)
+Turn 3, total=2, hits=1 (50.0)
 doing turn 4
-Turn 4, total=2, hits=2 (100.0)
+Turn 4, total=3, hits=2 (66.66666666666667)
 doing turn 5
-Turn 5, total=2, hits=1 (50.0)
+Turn 5, total=3, hits=2 (66.66666666666667)
 doing turn 6
 Turn 6, total=3, hits=2 (66.66666666666667)
 doing turn 7
-Turn 7, total=3, hits=2 (66.66666666666667)
+Turn 7, total=4, hits=2 (50.0)
 doing turn 8
-Turn 8, total=3, hits=3 (100.0)
+Turn 8, total=5, hits=2 (40.0)
 doing turn 9
-Turn 9, total=3, hits=2 (66.66666666666667)
+Turn 9, total=6, hits=3 (50.0)
 doing turn 10
-Turn 10, total=4, hits=2 (50.0)
+Turn 10, total=7, hits=3 (42.857142857142854)
 doing turn 11
-Turn 11, total=5, hits=2 (40.0)
+Turn 11, total=9, hits=6 (66.66666666666667)
 doing turn 12
-Turn 12, total=6, hits=4 (66.66666666666667)
+Turn 12, total=9, hits=5 (55.55555555555556)
 doing turn 13
-Turn 13, total=6, hits=5 (83.33333333333333)
+Turn 13, total=11, hits=7 (63.63636363636363)
 doing turn 14
-Turn 14, total=6, hits=5 (83.33333333333333)
+Turn 14, total=12, hits=5 (41.666666666666664)
 doing turn 15
-Turn 15, total=6, hits=6 (100.0)
+Turn 15, total=15, hits=8 (53.333333333333336)
 doing turn 16
-Turn 16, total=6, hits=4 (66.66666666666667)
+Turn 16, total=16, hits=9 (56.25)
 doing turn 17
-Turn 17, total=8, hits=4 (50.0)
+Turn 17, total=17, hits=6 (35.294117647058826)
 doing turn 18
-Turn 18, total=9, hits=5 (55.55555555555556)
+Turn 18, total=22, hits=8 (36.36363636363637)
 doing turn 19
-Turn 19, total=11, hits=6 (54.54545454545455)
+Turn 19, total=24, hits=10 (41.666666666666664)
 doing turn 20
-Turn 20, total=11, hits=9 (81.81818181818181)
+Turn 20, total=26, hits=13 (50.0)
 doing turn 21
-Turn 21, total=12, hits=9 (75.0)
+Turn 21, total=29, hits=13 (44.827586206896555)
 doing turn 22
-Turn 22, total=13, hits=10 (76.92307692307692)
+Turn 22, total=32, hits=14 (43.75)
 doing turn 23
-Turn 23, total=13, hits=9 (69.23076923076923)
+Turn 23, total=37, hits=17 (45.945945945945944)
 doing turn 24
-Turn 24, total=15, hits=11 (73.33333333333333)
+Turn 24, total=38, hits=18 (47.36842105263158)
 doing turn 25
-Turn 25, total=16, hits=9 (56.25)
+Turn 25, total=39, hits=13 (33.333333333333336)
 doing turn 26
-Turn 26, total=18, hits=11 (61.111111111111114)
+Turn 26, total=46, hits=19 (41.30434782608695)
 doing turn 27
-Turn 27, total=20, hits=11 (55.0)
+Turn 27, total=48, hits=15 (31.25)
 doing turn 28
-Turn 28, total=22, hits=12 (54.54545454545455)
+Turn 28, total=48, hits=23 (47.916666666666664)
 doing turn 29
-Turn 29, total=23, hits=12 (52.17391304347826)
+Turn 29, total=49, hits=20 (40.816326530612244)
 doing turn 30
-Turn 30, total=25, hits=14 (56.0)
+Turn 30, total=53, hits=18 (33.9622641509434)
 doing turn 31
-Turn 31, total=26, hits=15 (57.69230769230769)
+Turn 31, total=52, hits=20 (38.46153846153846)
 doing turn 32
-Turn 32, total=26, hits=14 (53.84615384615385)
+Turn 32, total=59, hits=19 (32.20338983050848)
 doing turn 33
-Turn 33, total=27, hits=13 (48.148148148148145)
+Turn 33, total=60, hits=22 (36.666666666666664)
 doing turn 34
-Turn 34, total=30, hits=16 (53.333333333333336)
+Turn 34, total=63, hits=24 (38.095238095238095)
 doing turn 35
-Turn 35, total=31, hits=11 (35.483870967741936)
+Turn 35, total=65, hits=18 (27.692307692307693)
 doing turn 36
-Turn 36, total=37, hits=15 (40.54054054054054)
+Turn 36, total=73, hits=22 (30.136986301369863)
 doing turn 37
-Turn 37, total=39, hits=16 (41.02564102564103)
+Turn 37, total=76, hits=28 (36.8421052631579)
 doing turn 38
-Turn 38, total=43, hits=18 (41.86046511627907)
+Turn 38, total=76, hits=29 (38.1578947368421)
 doing turn 39
-Turn 39, total=45, hits=19 (42.22222222222222)
+Turn 39, total=80, hits=30 (37.5)
 doing turn 40
-Turn 40, total=45, hits=21 (46.666666666666664)
+Turn 40, total=81, hits=30 (37.03703703703704)
 doing turn 41
-Turn 41, total=48, hits=21 (43.75)
+Turn 41, total=89, hits=30 (33.70786516853933)
 doing turn 42
-Turn 42, total=52, hits=20 (38.46153846153846)
+Turn 42, total=90, hits=36 (40.0)
 doing turn 43
-Turn 43, total=54, hits=22 (40.74074074074074)
+Turn 43, total=95, hits=36 (37.89473684210526)
 doing turn 44
-Turn 44, total=57, hits=26 (45.6140350877193)
+Turn 44, total=96, hits=39 (40.625)
 doing turn 45
-Turn 45, total=59, hits=25 (42.3728813559322)
+Turn 45, total=99, hits=46 (46.464646464646464)
 doing turn 46
-Turn 46, total=66, hits=25 (37.878787878787875)
+Turn 46, total=100, hits=39 (39.0)
 doing turn 47
-Turn 47, total=74, hits=28 (37.83783783783784)
+Turn 47, total=102, hits=44 (43.13725490196079)
 doing turn 48
-Turn 48, total=79, hits=32 (40.50632911392405)
+Turn 48, total=109, hits=45 (41.28440366972477)
 doing turn 49
-Turn 49, total=83, hits=37 (44.57831325301205)
+Turn 49, total=112, hits=43 (38.392857142857146)
 doing turn 50
-Turn 50, total=87, hits=38 (43.67816091954023)
+Turn 50, total=113, hits=43 (38.05309734513274)
 doing turn 51
-Turn 51, total=92, hits=34 (36.95652173913044)
+Turn 51, total=116, hits=40 (34.48275862068966)
 doing turn 52
-Turn 52, total=99, hits=40 (40.4040404040404)
+Turn 52, total=120, hits=43 (35.833333333333336)
 doing turn 53
-Turn 53, total=108, hits=43 (39.81481481481482)
+Turn 53, total=124, hits=45 (36.29032258064516)
 doing turn 54
-Turn 54, total=115, hits=49 (42.608695652173914)
+Turn 54, total=123, hits=48 (39.02439024390244)
 doing turn 55
-Turn 55, total=123, hits=48 (39.02439024390244)
+Turn 55, total=122, hits=45 (36.885245901639344)
 doing turn 56
-Turn 56, total=131, hits=51 (38.93129770992366)
+Turn 56, total=124, hits=40 (32.25806451612903)
 doing turn 57
-Turn 57, total=138, hits=50 (36.231884057971016)
+Turn 57, total=132, hits=40 (30.303030303030305)
 doing turn 58
-Turn 58, total=149, hits=52 (34.899328859060404)
+Turn 58, total=134, hits=41 (30.597014925373134)
 doing turn 59
-Turn 59, total=158, hits=53 (33.54430379746835)
+Turn 59, total=138, hits=43 (31.159420289855074)
 doing turn 60
-Turn 60, total=173, hits=55 (31.791907514450866)
+Turn 60, total=143, hits=46 (32.16783216783217)
 doing turn 61
-Turn 61, total=185, hits=70 (37.83783783783784)
+Turn 61, total=147, hits=44 (29.931972789115648)
 doing turn 62
-Turn 62, total=190, hits=79 (41.578947368421055)
+Turn 62, total=143, hits=52 (36.36363636363637)
 doing turn 63
-Turn 63, total=201, hits=79 (39.30348258706468)
+Turn 63, total=148, hits=45 (30.405405405405407)
 doing turn 64
-Turn 64, total=216, hits=78 (36.111111111111114)
+Turn 64, total=154, hits=45 (29.22077922077922)
 doing turn 65
-Turn 65, total=227, hits=72 (31.718061674008812)
+Turn 65, total=149, hits=44 (29.530201342281877)
 doing turn 66
-Turn 66, total=244, hits=77 (31.557377049180328)
+Turn 66, total=150, hits=44 (29.333333333333332)
 doing turn 67
-Turn 67, total=262, hits=82 (31.297709923664122)
+Turn 67, total=157, hits=39 (24.840764331210192)
 doing turn 68
-Turn 68, total=278, hits=88 (31.654676258992804)
+Turn 68, total=155, hits=39 (25.161290322580644)
 doing turn 69
-Turn 69, total=290, hits=88 (30.344827586206897)
+Turn 69, total=162, hits=45 (27.77777777777778)
 doing turn 70
-Turn 70, total=302, hits=90 (29.801324503311257)
+Turn 70, total=164, hits=43 (26.21951219512195)
 doing turn 71
-Turn 71, total=319, hits=103 (32.288401253918494)
+Turn 71, total=168, hits=42 (25.0)
 doing turn 72
-Turn 72, total=329, hits=104 (31.61094224924012)
+Turn 72, total=168, hits=40 (23.80952380952381)
 doing turn 73
-Turn 73, total=349, hits=112 (32.09169054441261)
+Turn 73, total=161, hits=39 (24.22360248447205)
 doing turn 74
-Turn 74, total=364, hits=122 (33.51648351648352)
+Turn 74, total=162, hits=37 (22.839506172839506)
 doing turn 75
-Turn 75, total=377, hits=129 (34.217506631299734)
+Turn 75, total=161, hits=35 (21.73913043478261)
 doing turn 76
-Turn 76, total=393, hits=131 (33.333333333333336)
+Turn 76, total=155, hits=37 (23.870967741935484)
 doing turn 77
-Turn 77, total=407, hits=132 (32.432432432432435)
+Turn 77, total=159, hits=42 (26.41509433962264)
 doing turn 78
-Turn 78, total=420, hits=134 (31.904761904761905)
+Turn 78, total=158, hits=39 (24.68354430379747)
 doing turn 79
-Turn 79, total=434, hits=138 (31.797235023041473)
+Turn 79, total=158, hits=34 (21.518987341772153)
 doing turn 80
-Turn 80, total=446, hits=135 (30.269058295964125)
+Turn 80, total=162, hits=34 (20.987654320987655)
 doing turn 81
-Turn 81, total=464, hits=150 (32.327586206896555)
+Turn 81, total=153, hits=26 (16.99346405228758)
 doing turn 82
-Turn 82, total=479, hits=148 (30.897703549060545)
+Turn 82, total=154, hits=30 (19.48051948051948)
 doing turn 83
-Turn 83, total=486, hits=161 (33.1275720164609)
+Turn 83, total=154, hits=35 (22.727272727272727)
 doing turn 84
-Turn 84, total=496, hits=168 (33.87096774193548)
+Turn 84, total=155, hits=39 (25.161290322580644)
 doing turn 85
-Turn 85, total=508, hits=185 (36.41732283464567)
+Turn 85, total=153, hits=35 (22.875816993464053)
 doing turn 86
-Turn 86, total=517, hits=193 (37.33075435203095)
+Turn 86, total=155, hits=32 (20.64516129032258)
 doing turn 87
-Turn 87, total=527, hits=184 (34.9146110056926)
+Turn 87, total=160, hits=27 (16.875)
 doing turn 88
-Turn 88, total=534, hits=177 (33.146067415730336)
+Turn 88, total=153, hits=27 (17.647058823529413)
 doing turn 89
-Turn 89, total=540, hits=178 (32.96296296296296)
+Turn 89, total=150, hits=33 (22.0)
 doing turn 90
-Turn 90, total=555, hits=165 (29.72972972972973)
+Turn 90, total=147, hits=30 (20.408163265306122)
 doing turn 91
-Turn 91, total=569, hits=169 (29.701230228471)
+Turn 91, total=136, hits=27 (19.852941176470587)
 doing turn 92
-Turn 92, total=574, hits=178 (31.010452961672474)
+Turn 92, total=135, hits=39 (28.88888888888889)
 doing turn 93
-Turn 93, total=590, hits=193 (32.71186440677966)
+Turn 93, total=135, hits=39 (28.88888888888889)
 doing turn 94
-Turn 94, total=598, hits=207 (34.61538461538461)
+Turn 94, total=138, hits=32 (23.18840579710145)
 doing turn 95
-Turn 95, total=613, hits=204 (33.278955954323)
+Turn 95, total=133, hits=22 (16.541353383458645)
 doing turn 96
-Turn 96, total=626, hits=207 (33.067092651757186)
+Turn 96, total=131, hits=18 (13.740458015267176)
 doing turn 97
-Turn 97, total=635, hits=212 (33.38582677165354)
+Turn 97, total=125, hits=21 (16.8)
 doing turn 98
-Turn 98, total=637, hits=201 (31.554160125588698)
+Turn 98, total=114, hits=18 (15.789473684210526)
 doing turn 99
-Turn 99, total=651, hits=206 (31.643625192012287)
+Turn 99, total=113, hits=25 (22.123893805309734)
 doing turn 100
-Turn 100, total=660, hits=216 (32.72727272727273)
+Turn 100, total=114, hits=21 (18.42105263157895)
 doing turn 101
-Turn 101, total=666, hits=210 (31.53153153153153)
+Turn 101, total=106, hits=22 (20.754716981132077)
 doing turn 102
-Turn 102, total=664, hits=212 (31.927710843373493)
+Turn 102, total=98, hits=20 (20.408163265306122)
 doing turn 103
-Turn 103, total=673, hits=215 (31.946508172362556)
+Turn 103, total=98, hits=22 (22.448979591836736)
 doing turn 104
-Turn 104, total=681, hits=218 (32.011747430249635)
+Turn 104, total=95, hits=18 (18.94736842105263)
 doing turn 105
-Turn 105, total=694, hits=228 (32.85302593659942)
+Turn 105, total=89, hits=12 (13.48314606741573)
 doing turn 106
-Turn 106, total=702, hits=231 (32.9059829059829)
+Turn 106, total=81, hits=10 (12.345679012345679)
 doing turn 107
-Turn 107, total=713, hits=231 (32.398316970546986)
+Turn 107, total=79, hits=12 (15.189873417721518)
 doing turn 108
-Turn 108, total=722, hits=233 (32.27146814404432)
+Turn 108, total=68, hits=9 (13.235294117647058)
 doing turn 109
-Turn 109, total=734, hits=228 (31.06267029972752)
+Turn 109, total=62, hits=10 (16.129032258064516)
 doing turn 110
-Turn 110, total=741, hits=231 (31.17408906882591)
+Turn 110, total=53, hits=6 (11.320754716981131)
 doing turn 111
-Turn 111, total=744, hits=239 (32.123655913978496)
+Turn 111, total=46, hits=3 (6.521739130434782)
 doing turn 112
-Turn 112, total=753, hits=246 (32.669322709163346)
+Turn 112, total=42, hits=5 (11.904761904761905)
 doing turn 113
-Turn 113, total=760, hits=246 (32.36842105263158)
+Turn 113, total=36, hits=5 (13.88888888888889)
 doing turn 114
-Turn 114, total=772, hits=249 (32.25388601036269)
+Turn 114, total=27, hits=3 (11.11111111111111)
 doing turn 115
-Turn 115, total=785, hits=260 (33.12101910828026)
+Turn 115, total=21, hits=3 (14.285714285714286)
 doing turn 116
-Turn 116, total=789, hits=253 (32.0659062103929)
+Turn 116, total=16, hits=4 (25.0)
 doing turn 117
-Turn 117, total=797, hits=258 (32.37139272271016)
+Turn 117, total=8, hits=1 (12.5)
 doing turn 118
-Turn 118, total=794, hits=259 (32.61964735516373)
-doing turn 119
-Turn 119, total=801, hits=249 (31.086142322097377)
-doing turn 120
-Turn 120, total=810, hits=242 (29.876543209876544)
-doing turn 121
-Turn 121, total=816, hits=243 (29.779411764705884)
-doing turn 122
-Turn 122, total=824, hits=246 (29.854368932038835)
-doing turn 123
-Turn 123, total=821, hits=255 (31.059683313032888)
-doing turn 124
-Turn 124, total=827, hits=256 (30.955259975816205)
-doing turn 125
-Turn 125, total=830, hits=244 (29.397590361445783)
-doing turn 126
-Turn 126, total=840, hits=252 (30.0)
-doing turn 127
-Turn 127, total=847, hits=254 (29.988193624557262)
-doing turn 128
-Turn 128, total=859, hits=249 (28.9871944121071)
-doing turn 129
-Turn 129, total=878, hits=259 (29.49886104783599)
-doing turn 130
-Turn 130, total=884, hits=268 (30.316742081447963)
-Log initialized
-Strategy initialized
-doing turn 1
-Turn 1, total=1, hits=0 (0.0)
-doing turn 2
-Turn 2, total=2, hits=0 (0.0)
-doing turn 3
-Turn 3, total=2, hits=2 (100.0)
-doing turn 4
-Turn 4, total=2, hits=2 (100.0)
-doing turn 5
-Turn 5, total=2, hits=1 (50.0)
-doing turn 6
-Turn 6, total=3, hits=2 (66.66666666666667)
-doing turn 7
-Turn 7, total=3, hits=2 (66.66666666666667)
-doing turn 8
-Turn 8, total=3, hits=3 (100.0)
-doing turn 9
-Turn 9, total=3, hits=2 (66.66666666666667)
-doing turn 10
-Turn 10, total=4, hits=2 (50.0)
-doing turn 11
-Turn 11, total=5, hits=2 (40.0)
-doing turn 12
-Turn 12, total=6, hits=4 (66.66666666666667)
-doing turn 13
-Turn 13, total=6, hits=5 (83.33333333333333)
-doing turn 14
-Turn 14, total=6, hits=5 (83.33333333333333)
-doing turn 15
-Turn 15, total=6, hits=6 (100.0)
-doing turn 16
-Turn 16, total=6, hits=4 (66.66666666666667)
-doing turn 17
-Turn 17, total=8, hits=4 (50.0)
-doing turn 18
-Turn 18, total=9, hits=5 (55.55555555555556)
-doing turn 19
-Turn 19, total=11, hits=6 (54.54545454545455)
-doing turn 20
-Turn 20, total=11, hits=9 (81.81818181818181)
-doing turn 21
-Turn 21, total=12, hits=9 (75.0)
-doing turn 22
-Turn 22, total=13, hits=10 (76.92307692307692)
-doing turn 23
-Turn 23, total=13, hits=9 (69.23076923076923)
-doing turn 24
-Turn 24, total=15, hits=11 (73.33333333333333)
-doing turn 25
-Turn 25, total=16, hits=9 (56.25)
-doing turn 26
-Turn 26, total=18, hits=11 (61.111111111111114)
-doing turn 27
-Turn 27, total=20, hits=11 (55.0)
-doing turn 28
-Turn 28, total=22, hits=12 (54.54545454545455)
-doing turn 29
-Turn 29, total=23, hits=12 (52.17391304347826)
-doing turn 30
-Turn 30, total=25, hits=14 (56.0)
-doing turn 31
-Turn 31, total=26, hits=15 (57.69230769230769)
-doing turn 32
-Turn 32, total=26, hits=14 (53.84615384615385)
-doing turn 33
-Turn 33, total=27, hits=13 (48.148148148148145)
-doing turn 34
-Turn 34, total=30, hits=16 (53.333333333333336)
-doing turn 35
-Turn 35, total=31, hits=11 (35.483870967741936)
-doing turn 36
-Turn 36, total=35, hits=16 (45.714285714285715)
-doing turn 37
-Turn 37, total=38, hits=16 (42.10526315789474)
-doing turn 38
-Turn 38, total=39, hits=17 (43.58974358974359)
-doing turn 39
-Turn 39, total=40, hits=18 (45.0)
-doing turn 40
-Turn 40, total=40, hits=18 (45.0)
-doing turn 41
-Turn 41, total=44, hits=17 (38.63636363636363)
-doing turn 42
-Turn 42, total=49, hits=19 (38.775510204081634)
-doing turn 43
-Turn 43, total=51, hits=20 (39.21568627450981)
-doing turn 44
-Turn 44, total=55, hits=25 (45.45454545454545)
-doing turn 45
-Turn 45, total=58, hits=22 (37.93103448275862)
-doing turn 46
-Turn 46, total=66, hits=25 (37.878787878787875)
-doing turn 47
-Turn 47, total=72, hits=30 (41.666666666666664)
-doing turn 48
-Turn 48, total=76, hits=34 (44.73684210526316)
-doing turn 49
-Turn 49, total=79, hits=37 (46.835443037974684)
-doing turn 50
-Turn 50, total=84, hits=34 (40.476190476190474)
-doing turn 51
-Turn 51, total=90, hits=36 (40.0)
-doing turn 52
-Turn 52, total=98, hits=40 (40.816326530612244)
-doing turn 53
-Turn 53, total=103, hits=46 (44.66019417475728)
-doing turn 54
-Turn 54, total=107, hits=50 (46.728971962616825)
-doing turn 55
-Turn 55, total=114, hits=54 (47.36842105263158)
-doing turn 56
-Turn 56, total=118, hits=50 (42.3728813559322)
-doing turn 57
-Turn 57, total=126, hits=53 (42.06349206349206)
-doing turn 58
-Turn 58, total=137, hits=57 (41.605839416058394)
-doing turn 59
-Turn 59, total=147, hits=60 (40.816326530612244)
-doing turn 60
-Turn 60, total=161, hits=62 (38.50931677018634)
-doing turn 61
-Turn 61, total=172, hits=79 (45.93023255813954)
-doing turn 62
-Turn 62, total=180, hits=77 (42.77777777777778)
-doing turn 63
-Turn 63, total=189, hits=83 (43.91534391534392)
-doing turn 64
-Turn 64, total=198, hits=69 (34.84848484848485)
-doing turn 65
-Turn 65, total=215, hits=74 (34.41860465116279)
-doing turn 66
-Turn 66, total=230, hits=62 (26.956521739130434)
-doing turn 67
-Turn 67, total=248, hits=79 (31.85483870967742)
-doing turn 68
-Turn 68, total=261, hits=87 (33.333333333333336)
-doing turn 69
-Turn 69, total=277, hits=98 (35.37906137184115)
-doing turn 70
-Turn 70, total=283, hits=106 (37.45583038869258)
-doing turn 71
-Turn 71, total=294, hits=107 (36.394557823129254)
-doing turn 72
-Turn 72, total=304, hits=109 (35.85526315789474)
-doing turn 73
-Turn 73, total=311, hits=101 (32.47588424437299)
-doing turn 74
-Turn 74, total=316, hits=98 (31.0126582278481)
-doing turn 75
-Turn 75, total=330, hits=103 (31.21212121212121)
-doing turn 76
-Turn 76, total=347, hits=101 (29.10662824207493)
-doing turn 77
-Turn 77, total=360, hits=108 (30.0)
-doing turn 78
-Turn 78, total=374, hits=112 (29.946524064171122)
-doing turn 79
-Turn 79, total=384, hits=130 (33.854166666666664)
-doing turn 80
-Turn 80, total=395, hits=136 (34.43037974683544)
-doing turn 81
-Turn 81, total=405, hits=142 (35.06172839506173)
-doing turn 82
-Turn 82, total=415, hits=139 (33.493975903614455)
-doing turn 83
-Turn 83, total=430, hits=142 (33.02325581395349)
-doing turn 84
-Turn 84, total=445, hits=148 (33.258426966292134)
-doing turn 85
-Turn 85, total=458, hits=147 (32.096069868995635)
-doing turn 86
-Turn 86, total=468, hits=152 (32.47863247863248)
-doing turn 87
-Turn 87, total=482, hits=149 (30.91286307053942)
-doing turn 88
-Turn 88, total=492, hits=166 (33.739837398373986)
-doing turn 89
-Turn 89, total=500, hits=171 (34.2)
-doing turn 90
-Turn 90, total=510, hits=170 (33.333333333333336)
-doing turn 91
-Turn 91, total=520, hits=173 (33.26923076923077)
-doing turn 92
-Turn 92, total=523, hits=173 (33.07839388145315)
-doing turn 93
-Turn 93, total=531, hits=189 (35.59322033898305)
-doing turn 94
-Turn 94, total=538, hits=192 (35.687732342007436)
-doing turn 95
-Turn 95, total=543, hits=196 (36.095764272559855)
-doing turn 96
-Turn 96, total=547, hits=193 (35.283363802559414)
-doing turn 97
-Turn 97, total=546, hits=186 (34.065934065934066)
-doing turn 98
-Turn 98, total=553, hits=187 (33.815551537070526)
-doing turn 99
-Turn 99, total=558, hits=190 (34.05017921146953)
-doing turn 100
-Turn 100, total=559, hits=191 (34.16815742397138)
-doing turn 101
-Turn 101, total=556, hits=194 (34.89208633093525)
-doing turn 102
-Turn 102, total=573, hits=192 (33.50785340314136)
-doing turn 103
-Turn 103, total=578, hits=185 (32.00692041522491)
-doing turn 104
-Turn 104, total=585, hits=188 (32.136752136752136)
-doing turn 105
-Turn 105, total=594, hits=203 (34.17508417508417)
-doing turn 106
-Turn 106, total=596, hits=196 (32.88590604026846)
-doing turn 107
-Turn 107, total=598, hits=201 (33.61204013377927)
-doing turn 108
-Turn 108, total=603, hits=200 (33.16749585406302)
-doing turn 109
-Turn 109, total=605, hits=203 (33.553719008264466)
-doing turn 110
-Turn 110, total=604, hits=207 (34.271523178807946)
-doing turn 111
-Turn 111, total=609, hits=211 (34.64696223316913)
-doing turn 112
-Turn 112, total=613, hits=214 (34.91027732463295)
-doing turn 113
-Turn 113, total=626, hits=217 (34.66453674121406)
-doing turn 114
-Turn 114, total=630, hits=206 (32.698412698412696)
-doing turn 115
-Turn 115, total=638, hits=215 (33.69905956112853)
-doing turn 116
-Turn 116, total=645, hits=217 (33.64341085271318)
-doing turn 117
-Turn 117, total=652, hits=222 (34.04907975460123)
-doing turn 118
-Turn 118, total=656, hits=214 (32.6219512195122)
-doing turn 119
-Turn 119, total=662, hits=219 (33.081570996978854)
-doing turn 120
-Turn 120, total=654, hits=219 (33.48623853211009)
-doing turn 121
-Turn 121, total=662, hits=223 (33.685800604229605)
-doing turn 122
-Turn 122, total=665, hits=227 (34.13533834586466)
-doing turn 123
-Turn 123, total=663, hits=231 (34.841628959276015)
-doing turn 124
-Turn 124, total=677, hits=229 (33.82570162481536)
-doing turn 125
-Turn 125, total=690, hits=216 (31.304347826086957)
-doing turn 126
-Turn 126, total=696, hits=220 (31.60919540229885)
-doing turn 127
-Turn 127, total=696, hits=221 (31.75287356321839)
-doing turn 128
-Turn 128, total=695, hits=226 (32.51798561151079)
-doing turn 129
-Turn 129, total=693, hits=231 (33.333333333333336)
-doing turn 130
-Turn 130, total=695, hits=237 (34.10071942446043)
-doing turn 131
-Turn 131, total=698, hits=231 (33.0945558739255)
-Log initialized
-Strategy initialized
-doing turn 1
-Turn 1, total=1, hits=0 (0.0)
-doing turn 2
-Turn 2, total=2, hits=0 (0.0)
-doing turn 3
-Turn 3, total=2, hits=2 (100.0)
-doing turn 4
-Turn 4, total=2, hits=2 (100.0)
-doing turn 5
-Turn 5, total=2, hits=1 (50.0)
-doing turn 6
-Turn 6, total=3, hits=2 (66.66666666666667)
-doing turn 7
-Turn 7, total=3, hits=2 (66.66666666666667)
-doing turn 8
-Turn 8, total=3, hits=3 (100.0)
-doing turn 9
-Turn 9, total=3, hits=2 (66.66666666666667)
-doing turn 10
-Turn 10, total=4, hits=2 (50.0)
-doing turn 11
-Turn 11, total=5, hits=2 (40.0)
-doing turn 12
-Turn 12, total=6, hits=4 (66.66666666666667)
-doing turn 13
-Turn 13, total=6, hits=5 (83.33333333333333)
-doing turn 14
-Turn 14, total=6, hits=5 (83.33333333333333)
-doing turn 15
-Turn 15, total=6, hits=6 (100.0)
-doing turn 16
-Turn 16, total=6, hits=4 (66.66666666666667)
-doing turn 17
-Turn 17, total=8, hits=4 (50.0)
-doing turn 18
-Turn 18, total=9, hits=5 (55.55555555555556)
-doing turn 19
-Turn 19, total=11, hits=6 (54.54545454545455)
-doing turn 20
-Turn 20, total=11, hits=9 (81.81818181818181)
-doing turn 21
-Turn 21, total=12, hits=9 (75.0)
-doing turn 22
-Turn 22, total=13, hits=10 (76.92307692307692)
-doing turn 23
-Turn 23, total=13, hits=9 (69.23076923076923)
-doing turn 24
-Turn 24, total=15, hits=11 (73.33333333333333)
-doing turn 25
-Turn 25, total=16, hits=9 (56.25)
-doing turn 26
-Turn 26, total=18, hits=11 (61.111111111111114)
-doing turn 27
-Turn 27, total=20, hits=11 (55.0)
-doing turn 28
-Turn 28, total=22, hits=12 (54.54545454545455)
-doing turn 29
-Turn 29, total=23, hits=12 (52.17391304347826)
-doing turn 30
-Turn 30, total=25, hits=14 (56.0)
-doing turn 31
-Turn 31, total=26, hits=15 (57.69230769230769)
-doing turn 32
-Turn 32, total=26, hits=14 (53.84615384615385)
-doing turn 33
-Turn 33, total=27, hits=13 (48.148148148148145)
-doing turn 34
-Turn 34, total=30, hits=16 (53.333333333333336)
-doing turn 35
-Turn 35, total=31, hits=11 (35.483870967741936)
-doing turn 36
-Turn 36, total=35, hits=16 (45.714285714285715)
-doing turn 37
-Turn 37, total=38, hits=16 (42.10526315789474)
-doing turn 38
-Turn 38, total=39, hits=18 (46.15384615384615)
-doing turn 39
-Turn 39, total=41, hits=17 (41.46341463414634)
-doing turn 40
-Turn 40, total=41, hits=19 (46.34146341463415)
-doing turn 41
-Turn 41, total=45, hits=18 (40.0)
-doing turn 42
-Turn 42, total=50, hits=20 (40.0)
-doing turn 43
-Turn 43, total=51, hits=22 (43.13725490196079)
-doing turn 44
-Turn 44, total=55, hits=26 (47.27272727272727)
-doing turn 45
-Turn 45, total=58, hits=23 (39.6551724137931)
-doing turn 46
-Turn 46, total=64, hits=25 (39.0625)
-doing turn 47
-Turn 47, total=71, hits=30 (42.25352112676056)
-doing turn 48
-Turn 48, total=76, hits=32 (42.10526315789474)
-doing turn 49
-Turn 49, total=80, hits=36 (45.0)
-doing turn 50
-Turn 50, total=85, hits=35 (41.1764705882353)
-doing turn 51
-Turn 51, total=91, hits=38 (41.75824175824176)
-doing turn 52
-Turn 52, total=98, hits=42 (42.857142857142854)
-doing turn 53
-Turn 53, total=101, hits=47 (46.53465346534654)
-doing turn 54
-Turn 54, total=105, hits=49 (46.666666666666664)
-doing turn 55
-Turn 55, total=109, hits=50 (45.87155963302752)
-doing turn 56
-Turn 56, total=113, hits=45 (39.823008849557525)
-doing turn 57
-Turn 57, total=119, hits=53 (44.53781512605042)
-doing turn 58
-Turn 58, total=127, hits=52 (40.94488188976378)
-doing turn 59
-Turn 59, total=138, hits=55 (39.85507246376812)
-doing turn 60
-Turn 60, total=148, hits=56 (37.83783783783784)
-doing turn 61
-Turn 61, total=159, hits=63 (39.62264150943396)
-doing turn 62
-Turn 62, total=170, hits=62 (36.470588235294116)
-doing turn 63
-Turn 63, total=180, hits=72 (40.0)
-doing turn 64
-Turn 64, total=192, hits=63 (32.8125)
-doing turn 65
-Turn 65, total=205, hits=67 (32.68292682926829)
-doing turn 66
-Turn 66, total=218, hits=68 (31.192660550458715)
-doing turn 67
-Turn 67, total=233, hits=90 (38.62660944206009)
-doing turn 68
-Turn 68, total=242, hits=96 (39.66942148760331)
-doing turn 69
-Turn 69, total=254, hits=106 (41.732283464566926)
-doing turn 70
-Turn 70, total=265, hits=102 (38.490566037735846)
-doing turn 71
-Turn 71, total=275, hits=101 (36.72727272727273)
-doing turn 72
-Turn 72, total=286, hits=96 (33.56643356643357)
-doing turn 73
-Turn 73, total=298, hits=96 (32.214765100671144)
-doing turn 74
-Turn 74, total=310, hits=92 (29.677419354838708)
-doing turn 75
-Turn 75, total=323, hits=89 (27.554179566563466)
-doing turn 76
-Turn 76, total=338, hits=103 (30.473372781065088)
-doing turn 77
-Turn 77, total=348, hits=111 (31.896551724137932)
-doing turn 78
-Turn 78, total=358, hits=110 (30.726256983240223)
-doing turn 79
-Turn 79, total=362, hits=115 (31.76795580110497)
-doing turn 80
-Turn 80, total=371, hits=128 (34.501347708894876)
-doing turn 81
-Turn 81, total=375, hits=131 (34.93333333333333)
-doing turn 82
-Turn 82, total=389, hits=142 (36.50385604113111)
-doing turn 83
-Turn 83, total=394, hits=139 (35.27918781725889)
-doing turn 84
-Turn 84, total=402, hits=134 (33.333333333333336)
-doing turn 85
-Turn 85, total=411, hits=133 (32.360097323600975)
-doing turn 86
-Turn 86, total=424, hits=133 (31.367924528301888)
-doing turn 87
-Turn 87, total=439, hits=138 (31.43507972665148)
-doing turn 88
-Turn 88, total=447, hits=153 (34.22818791946309)
-doing turn 89
-Turn 89, total=458, hits=154 (33.624454148471614)
-doing turn 90
-Turn 90, total=471, hits=157 (33.333333333333336)
-doing turn 91
-Turn 91, total=484, hits=170 (35.12396694214876)
-doing turn 92
-Turn 92, total=485, hits=160 (32.98969072164948)
-doing turn 93
-Turn 93, total=487, hits=157 (32.238193018480494)
-doing turn 94
-Turn 94, total=499, hits=166 (33.26653306613226)
-doing turn 95
-Turn 95, total=502, hits=178 (35.45816733067729)
-doing turn 96
-Turn 96, total=511, hits=179 (35.0293542074364)
-doing turn 97
-Turn 97, total=515, hits=169 (32.81553398058252)
-doing turn 98
-Turn 98, total=523, hits=165 (31.548757170172085)
-doing turn 99
-Turn 99, total=524, hits=162 (30.916030534351144)
-doing turn 100
-Turn 100, total=524, hits=169 (32.25190839694657)
-doing turn 101
-Turn 101, total=526, hits=175 (33.26996197718631)
-doing turn 102
-Turn 102, total=533, hits=181 (33.95872420262664)
-doing turn 103
-Turn 103, total=539, hits=191 (35.43599257884972)
-doing turn 104
-Turn 104, total=541, hits=187 (34.56561922365989)
-doing turn 105
-Turn 105, total=546, hits=180 (32.967032967032964)
-doing turn 106
-Turn 106, total=546, hits=175 (32.05128205128205)
-doing turn 107
-Turn 107, total=549, hits=174 (31.693989071038253)
-doing turn 108
-Turn 108, total=555, hits=185 (33.333333333333336)
-doing turn 109
-Turn 109, total=568, hits=180 (31.690140845070424)
-doing turn 110
-Turn 110, total=568, hits=183 (32.21830985915493)
-doing turn 111
-Turn 111, total=566, hits=192 (33.92226148409894)
-doing turn 112
-Turn 112, total=571, hits=186 (32.57443082311734)
-doing turn 113
-Turn 113, total=576, hits=185 (32.11805555555556)
-doing turn 114
-Turn 114, total=573, hits=181 (31.588132635253054)
-doing turn 115
-Turn 115, total=578, hits=187 (32.35294117647059)
-doing turn 116
-Turn 116, total=565, hits=183 (32.389380530973455)
-doing turn 117
-Turn 117, total=566, hits=186 (32.86219081272085)
-doing turn 118
-Turn 118, total=561, hits=175 (31.194295900178254)
-doing turn 119
-Turn 119, total=567, hits=187 (32.98059964726632)
-doing turn 120
-Turn 120, total=583, hits=194 (33.27615780445969)
-doing turn 121
-Turn 121, total=583, hits=195 (33.44768439108062)
-doing turn 122
-Turn 122, total=585, hits=189 (32.30769230769231)
-doing turn 123
-Turn 123, total=581, hits=185 (31.841652323580035)
-doing turn 124
-Turn 124, total=591, hits=191 (32.31810490693739)
-doing turn 125
-Turn 125, total=588, hits=198 (33.673469387755105)
-doing turn 126
-Turn 126, total=590, hits=192 (32.54237288135593)
-doing turn 127
-Turn 127, total=588, hits=201 (34.183673469387756)
-doing turn 128
-Turn 128, total=591, hits=202 (34.179357021996616)
-doing turn 129
-Turn 129, total=589, hits=196 (33.276740237691)
-doing turn 130
-Turn 130, total=586, hits=196 (33.44709897610922)
-doing turn 131
-Turn 131, total=588, hits=186 (31.632653061224488)
-Log initialized
-Strategy initialized
-doing turn 1
-Turn 1, total=1, hits=0 (0.0)
-doing turn 2
-Turn 2, total=2, hits=0 (0.0)
-doing turn 3
-Turn 3, total=2, hits=2 (100.0)
-doing turn 4
-Turn 4, total=2, hits=2 (100.0)
-doing turn 5
-Turn 5, total=2, hits=1 (50.0)
-doing turn 6
-Turn 6, total=3, hits=2 (66.66666666666667)
-doing turn 7
-Turn 7, total=3, hits=2 (66.66666666666667)
-doing turn 8
-Turn 8, total=3, hits=3 (100.0)
-doing turn 9
-Turn 9, total=3, hits=2 (66.66666666666667)
-doing turn 10
-Turn 10, total=4, hits=2 (50.0)
-doing turn 11
-Turn 11, total=5, hits=2 (40.0)
-doing turn 12
-Turn 12, total=6, hits=4 (66.66666666666667)
-doing turn 13
-Turn 13, total=6, hits=5 (83.33333333333333)
-doing turn 14
-Turn 14, total=6, hits=5 (83.33333333333333)
-doing turn 15
-Turn 15, total=6, hits=6 (100.0)
-doing turn 16
-Turn 16, total=6, hits=4 (66.66666666666667)
-doing turn 17
-Turn 17, total=8, hits=4 (50.0)
-doing turn 18
-Turn 18, total=9, hits=5 (55.55555555555556)
-doing turn 19
-Turn 19, total=11, hits=6 (54.54545454545455)
-doing turn 20
-Turn 20, total=11, hits=9 (81.81818181818181)
-doing turn 21
-Turn 21, total=12, hits=9 (75.0)
-doing turn 22
-Turn 22, total=13, hits=10 (76.92307692307692)
-doing turn 23
-Turn 23, total=13, hits=9 (69.23076923076923)
-doing turn 24
-Turn 24, total=15, hits=11 (73.33333333333333)
-doing turn 25
-Turn 25, total=16, hits=9 (56.25)
-doing turn 26
-Turn 26, total=18, hits=11 (61.111111111111114)
-doing turn 27
-Turn 27, total=20, hits=11 (55.0)
-doing turn 28
-Turn 28, total=22, hits=12 (54.54545454545455)
-doing turn 29
-Turn 29, total=23, hits=12 (52.17391304347826)
-doing turn 30
-Turn 30, total=25, hits=14 (56.0)
-doing turn 31
-Turn 31, total=26, hits=15 (57.69230769230769)
-doing turn 32
-Turn 32, total=26, hits=14 (53.84615384615385)
-doing turn 33
-Turn 33, total=27, hits=13 (48.148148148148145)
-doing turn 34
-Turn 34, total=30, hits=16 (53.333333333333336)
-doing turn 35
-Turn 35, total=31, hits=11 (35.483870967741936)
-doing turn 36
-Turn 36, total=37, hits=15 (40.54054054054054)
-doing turn 37
-Turn 37, total=39, hits=16 (41.02564102564103)
-doing turn 38
-Turn 38, total=43, hits=18 (41.86046511627907)
-doing turn 39
-Turn 39, total=45, hits=19 (42.22222222222222)
-doing turn 40
-Turn 40, total=45, hits=21 (46.666666666666664)
-doing turn 41
-Turn 41, total=48, hits=21 (43.75)
-doing turn 42
-Turn 42, total=53, hits=21 (39.62264150943396)
-doing turn 43
-Turn 43, total=55, hits=22 (40.0)
-doing turn 44
-Turn 44, total=60, hits=27 (45.0)
-doing turn 45
-Turn 45, total=63, hits=24 (38.095238095238095)
-doing turn 46
-Turn 46, total=69, hits=28 (40.57971014492754)
-doing turn 47
-Turn 47, total=75, hits=31 (41.333333333333336)
-doing turn 48
-Turn 48, total=80, hits=32 (40.0)
-doing turn 49
-Turn 49, total=81, hits=36 (44.44444444444444)
-doing turn 50
-Turn 50, total=86, hits=35 (40.69767441860465)
-doing turn 51
-Turn 51, total=92, hits=32 (34.78260869565217)
-doing turn 52
-Turn 52, total=102, hits=39 (38.23529411764706)
-doing turn 53
-Turn 53, total=109, hits=42 (38.53211009174312)
-doing turn 54
-Turn 54, total=118, hits=52 (44.067796610169495)
-doing turn 55
-Turn 55, total=128, hits=51 (39.84375)
-doing turn 56
-Turn 56, total=137, hits=53 (38.68613138686131)
-doing turn 57
-Turn 57, total=145, hits=55 (37.93103448275862)
-doing turn 58
-Turn 58, total=155, hits=58 (37.41935483870968)
-doing turn 59
-Turn 59, total=161, hits=64 (39.75155279503105)
-doing turn 60
-Turn 60, total=167, hits=63 (37.724550898203596)
-doing turn 61
-Turn 61, total=182, hits=68 (37.362637362637365)
-doing turn 62
-Turn 62, total=191, hits=77 (40.31413612565445)
-doing turn 63
-Turn 63, total=204, hits=80 (39.21568627450981)
-doing turn 64
-Turn 64, total=218, hits=84 (38.53211009174312)
-doing turn 65
-Turn 65, total=227, hits=82 (36.12334801762115)
-doing turn 66
-Turn 66, total=242, hits=79 (32.64462809917355)
-doing turn 67
-Turn 67, total=258, hits=84 (32.55813953488372)
-doing turn 68
-Turn 68, total=275, hits=76 (27.636363636363637)
-doing turn 69
-Turn 69, total=288, hits=87 (30.208333333333332)
-doing turn 70
-Turn 70, total=302, hits=87 (28.807947019867548)
-doing turn 71
-Turn 71, total=317, hits=96 (30.28391167192429)
-doing turn 72
-Turn 72, total=336, hits=102 (30.357142857142858)
-doing turn 73
-Turn 73, total=350, hits=97 (27.714285714285715)
-doing turn 74
-Turn 74, total=362, hits=106 (29.281767955801104)
-doing turn 75
-Turn 75, total=378, hits=119 (31.48148148148148)
-doing turn 76
-Turn 76, total=391, hits=120 (30.690537084398976)
-doing turn 77
-Turn 77, total=407, hits=129 (31.695331695331696)
-doing turn 78
-Turn 78, total=415, hits=128 (30.843373493975903)
-doing turn 79
-Turn 79, total=425, hits=130 (30.58823529411765)
-doing turn 80
-Turn 80, total=437, hits=146 (33.40961098398169)
-doing turn 81
-Turn 81, total=450, hits=140 (31.11111111111111)
-doing turn 82
-Turn 82, total=468, hits=145 (30.982905982905983)
-doing turn 83
-Turn 83, total=484, hits=150 (30.99173553719008)
-doing turn 84
-Turn 84, total=498, hits=154 (30.923694779116467)
-doing turn 85
-Turn 85, total=514, hits=163 (31.71206225680934)
-doing turn 86
-Turn 86, total=523, hits=175 (33.460803059273424)
-doing turn 87
-Turn 87, total=542, hits=179 (33.025830258302584)
-doing turn 88
-Turn 88, total=551, hits=180 (32.66787658802178)
-doing turn 89
-Turn 89, total=559, hits=184 (32.91592128801431)
-doing turn 90
-Turn 90, total=567, hits=184 (32.451499118165785)
-doing turn 91
-Turn 91, total=579, hits=189 (32.64248704663213)
-doing turn 92
-Turn 92, total=586, hits=189 (32.25255972696246)
-doing turn 93
-Turn 93, total=596, hits=182 (30.536912751677853)
-doing turn 94
-Turn 94, total=614, hits=193 (31.433224755700326)
-doing turn 95
-Turn 95, total=617, hits=188 (30.47001620745543)
-doing turn 96
-Turn 96, total=627, hits=195 (31.10047846889952)
-doing turn 97
-Turn 97, total=639, hits=204 (31.92488262910798)
-doing turn 98
-Turn 98, total=646, hits=210 (32.5077399380805)
-doing turn 99
-Turn 99, total=664, hits=210 (31.626506024096386)
-doing turn 100
-Turn 100, total=676, hits=211 (31.21301775147929)
-doing turn 101
-Turn 101, total=698, hits=221 (31.66189111747851)
-doing turn 102
-Turn 102, total=696, hits=228 (32.758620689655174)
-doing turn 103
-Turn 103, total=703, hits=231 (32.859174964438125)
-doing turn 104
-Turn 104, total=696, hits=231 (33.189655172413794)
-doing turn 105
-Turn 105, total=709, hits=226 (31.875881523272213)
-doing turn 106
-Turn 106, total=718, hits=223 (31.058495821727018)
-doing turn 107
-Turn 107, total=723, hits=232 (32.088520055325034)
-doing turn 108
-Turn 108, total=720, hits=227 (31.52777777777778)
-doing turn 109
-Turn 109, total=724, hits=218 (30.11049723756906)
-doing turn 110
-Turn 110, total=733, hits=222 (30.286493860845837)
-doing turn 111
-Turn 111, total=745, hits=218 (29.261744966442954)
-doing turn 112
-Turn 112, total=751, hits=232 (30.89214380825566)
-doing turn 113
-Turn 113, total=757, hits=241 (31.836195508586524)
-doing turn 114
-Turn 114, total=758, hits=229 (30.211081794195252)
-doing turn 115
-Turn 115, total=767, hits=230 (29.98696219035202)
-doing turn 116
-Turn 116, total=774, hits=241 (31.136950904392766)
-doing turn 117
-Turn 117, total=784, hits=241 (30.739795918367346)
-doing turn 118
-Turn 118, total=781, hits=235 (30.089628681177977)
-doing turn 119
-Turn 119, total=795, hits=227 (28.553459119496857)
-doing turn 120
-Turn 120, total=796, hits=232 (29.14572864321608)
-doing turn 121
-Turn 121, total=803, hits=237 (29.514321295143212)
-doing turn 122
-Turn 122, total=821, hits=235 (28.623629719853838)
-doing turn 123
-Turn 123, total=814, hits=248 (30.466830466830466)
-doing turn 124
-Turn 124, total=832, hits=243 (29.20673076923077)
-doing turn 125
-Turn 125, total=837, hits=248 (29.62962962962963)
-doing turn 126
-Turn 126, total=849, hits=255 (30.035335689045937)
-doing turn 127
-Turn 127, total=861, hits=264 (30.662020905923345)
-doing turn 128
-Turn 128, total=867, hits=275 (31.718569780853517)
-doing turn 129
-Turn 129, total=875, hits=285 (32.57142857142857)
-doing turn 130
-Turn 130, total=890, hits=270 (30.337078651685392)
-doing turn 131
-doing turn 131
-Turn 131, total=893, hits=260 (29.115341545352745)
-doing turn 132
-Turn 132, total=898, hits=256 (28.50779510022272)
-doing turn 133
-Turn 133, total=906, hits=267 (29.47019867549669)
-doing turn 134
-Turn 134, total=911, hits=259 (28.430296377607025)
-doing turn 135
-Turn 135, total=924, hits=275 (29.761904761904763)
-doing turn 136
-Turn 136, total=932, hits=272 (29.184549356223176)
-doing turn 137
-Turn 137, total=944, hits=277 (29.343220338983052)
-doing turn 138
-Turn 138, total=953, hits=267 (28.01678908709339)
-doing turn 139
-Turn 139, total=961, hits=266 (27.679500520291363)
-doing turn 140
-Turn 140, total=964, hits=274 (28.42323651452282)
-doing turn 141
-Turn 141, total=975, hits=273 (28.0)
-doing turn 142
-Turn 142, total=992, hits=278 (28.024193548387096)
-doing turn 143
-Turn 143, total=1007, hits=285 (28.30188679245283)
-doing turn 144
-Turn 144, total=1026, hits=299 (29.142300194931774)
-doing turn 145
-Turn 145, total=1031, hits=303 (29.38894277400582)
-doing turn 146
-Turn 146, total=1042, hits=298 (28.598848368522074)
-doing turn 147
-Turn 147, total=1064, hits=318 (29.887218045112782)
-doing turn 148
-Turn 148, total=1060, hits=315 (29.71698113207547)
-doing turn 149
-Turn 149, total=1071, hits=308 (28.758169934640524)
-doing turn 150
-Turn 150, total=1086, hits=307 (28.268876611418047)
-doing turn 151
-Turn 151, total=1095, hits=309 (28.21917808219178)
-doing turn 152
-Turn 152, total=1109, hits=325 (29.305680793507666)
-doing turn 153
-Turn 153, total=1126, hits=330 (29.30728241563055)
-doing turn 154
-Turn 154, total=1144, hits=315 (27.534965034965033)
-doing turn 155
-Turn 155, total=1161, hits=325 (27.993109388458226)
-doing turn 156
-Turn 156, total=1183, hits=319 (26.965342349957734)
-doing turn 157
-Turn 157, total=1205, hits=312 (25.892116182572614)
-doing turn 158
-Turn 158, total=1221, hits=324 (26.535626535626534)
-doing turn 159
-Turn 159, total=1231, hits=338 (27.457351746547523)
-doing turn 160
-Turn 160, total=1249, hits=341 (27.30184147317854)
-doing turn 161
-Turn 161, total=1272, hits=345 (27.12264150943396)
-doing turn 162
-Turn 162, total=1300, hits=350 (26.923076923076923)
-doing turn 163
-Turn 163, total=1320, hits=349 (26.439393939393938)
-doing turn 164
-Turn 164, total=1345, hits=354 (26.319702602230482)
-doing turn 165
-Turn 165, total=1371, hits=360 (26.2582056892779)
-doing turn 166
-Turn 166, total=1383, hits=375 (27.114967462039047)
-doing turn 167
-Turn 167, total=1412, hits=366 (25.92067988668555)
-doing turn 168
-Turn 168, total=1438, hits=370 (25.73018080667594)
-doing turn 169
-Turn 169, total=1458, hits=368 (25.2400548696845)
-doing turn 170
-Turn 170, total=1478, hits=379 (25.64276048714479)
-doing turn 171
-Turn 171, total=1494, hits=401 (26.84069611780455)
-doing turn 172
-Turn 172, total=1517, hits=401 (26.433750823994725)
-doing turn 173
-Turn 173, total=1537, hits=401 (26.08978529603123)
-doing turn 174
-Turn 174, total=1561, hits=411 (26.32927610506086)
-doing turn 175
-Turn 175, total=1582, hits=413 (26.106194690265486)
-doing turn 176
-Turn 176, total=1602, hits=407 (25.405742821473158)
-doing turn 177
-Turn 177, total=1622, hits=412 (25.400739827373613)
-doing turn 178
-Turn 178, total=1659, hits=420 (25.31645569620253)
-doing turn 179
-Turn 179, total=1684, hits=423 (25.1187648456057)
-doing turn 180
-Turn 180, total=1710, hits=442 (25.84795321637427)
-doing turn 181
-Turn 181, total=1730, hits=434 (25.08670520231214)
-doing turn 182
-Turn 182, total=1747, hits=431 (24.67086433886663)
-doing turn 183
-Turn 183, total=1754, hits=454 (25.883694412770808)
-doing turn 184
-Turn 184, total=1766, hits=437 (24.745186862967156)
-doing turn 185
-Turn 185, total=1796, hits=466 (25.946547884187083)
-doing turn 186
-Turn 186, total=1809, hits=457 (25.262576008844665)
-doing turn 187
-Turn 187, total=1811, hits=457 (25.23467697404749)
-doing turn 188
-Turn 188, total=1828, hits=472 (25.820568927789935)
-doing turn 189
-Turn 189, total=1855, hits=470 (25.336927223719677)
-doing turn 190
-Turn 190, total=1870, hits=481 (25.72192513368984)
-doing turn 191
-Turn 191, total=1872, hits=486 (25.96153846153846)
-doing turn 192
-Turn 192, total=1900, hits=488 (25.68421052631579)
-doing turn 193
-Turn 193, total=1922, hits=473 (24.60978147762747)
-doing turn 194
-Turn 194, total=1952, hits=486 (24.897540983606557)
-doing turn 195
-Turn 195, total=1952, hits=502 (25.7172131147541)
-doing turn 196
-Turn 196, total=1963, hits=505 (25.725929699439632)
-doing turn 197
-Turn 197, total=1975, hits=505 (25.569620253164558)
-doing turn 198
-Turn 198, total=1973, hits=497 (25.190065889508364)
-doing turn 199
-Turn 199, total=1973, hits=516 (26.153066396350734)
-doing turn 200
-Turn 200, total=1962, hits=488 (24.872579001019368)
-doing turn 201
-Turn 201, total=1960, hits=476 (24.285714285714285)
-doing turn 202
-Turn 202, total=1958, hits=498 (25.4341164453524)
-doing turn 203
-Turn 203, total=1946, hits=483 (24.820143884892087)
-doing turn 204
-Turn 204, total=1940, hits=476 (24.536082474226806)
-doing turn 205
-Turn 205, total=1933, hits=493 (25.504397309881014)
-doing turn 206
-Turn 206, total=1953, hits=490 (25.089605734767026)
-doing turn 207
-Turn 207, total=1947, hits=475 (24.396507447354907)
-doing turn 208
-Turn 208, total=1936, hits=469 (24.225206611570247)
-doing turn 209
-Turn 209, total=1927, hits=472 (24.494032174364296)
-doing turn 210
-Turn 210, total=1928, hits=470 (24.37759336099585)
-doing turn 211
-Turn 211, total=1922, hits=483 (25.13007284079084)
-doing turn 212
-Turn 212, total=1921, hits=467 (24.31025507548152)
-doing turn 213
-Turn 213, total=1902, hits=469 (24.658254468980022)
-doing turn 214
-Turn 214, total=1890, hits=449 (23.756613756613756)
-doing turn 215
-Turn 215, total=1880, hits=440 (23.404255319148938)
-doing turn 216
-Turn 216, total=1886, hits=453 (24.019088016967125)
-doing turn 217
-Turn 217, total=1878, hits=451 (24.014909478168263)
-doing turn 218
-Turn 218, total=1860, hits=444 (23.870967741935484)
-doing turn 219
-Turn 219, total=1848, hits=450 (24.350649350649352)
-doing turn 220
-Turn 220, total=1851, hits=448 (24.203133441383038)
-doing turn 221
-Turn 221, total=1839, hits=436 (23.708537248504623)
-doing turn 222
-Turn 222, total=1838, hits=448 (24.374319912948856)
-doing turn 223
-Turn 223, total=1843, hits=441 (23.928377645143787)
-doing turn 224
-Turn 224, total=1844, hits=447 (24.240780911062906)
-doing turn 225
-Turn 225, total=1844, hits=437 (23.698481561822124)
-doing turn 226
-Turn 226, total=1846, hits=424 (22.968580715059588)
-doing turn 227
-Turn 227, total=1834, hits=425 (23.173391494002182)
-doing turn 228
-Turn 228, total=1840, hits=425 (23.097826086956523)
-doing turn 229
-Turn 229, total=1829, hits=443 (24.220885729907053)
-doing turn 230
-Turn 230, total=1823, hits=441 (24.19089413055403)
-doing turn 231
-Turn 231, total=1812, hits=446 (24.613686534216335)
-doing turn 232
-Turn 232, total=1810, hits=438 (24.19889502762431)
-doing turn 233
-Turn 233, total=1806, hits=422 (23.366555924695458)
-doing turn 234
-Turn 234, total=1795, hits=426 (23.73259052924791)
-doing turn 235
-Turn 235, total=1788, hits=419 (23.434004474272932)
-doing turn 236
-Turn 236, total=1787, hits=444 (24.84611080022384)
-doing turn 237
-Turn 237, total=1789, hits=449 (25.09782001117943)
-doing turn 238
-Turn 238, total=1783, hits=449 (25.182277061132922)
-doing turn 239
-Turn 239, total=1756, hits=442 (25.170842824601365)
-doing turn 240
-Turn 240, total=1738, hits=431 (24.79861910241657)
-doing turn 241
-Turn 241, total=1746, hits=431 (24.68499427262314)
-doing turn 242
-Turn 242, total=1758, hits=430 (24.459613196814562)
-doing turn 243
-Turn 243, total=1749, hits=432 (24.69982847341338)
-doing turn 244
-Turn 244, total=1741, hits=433 (24.870763928776565)
-doing turn 245
-Turn 245, total=1735, hits=429 (24.72622478386167)
-doing turn 246
-Turn 246, total=1720, hits=419 (24.36046511627907)
-doing turn 247
-Turn 247, total=1714, hits=428 (24.970828471411902)
-doing turn 248
-Turn 248, total=1717, hits=421 (24.51951077460687)
-doing turn 249
-Turn 249, total=1709, hits=389 (22.761849034523113)
-doing turn 250
-Turn 250, total=1714, hits=391 (22.81213535589265)
-Turn 131, total=903, hits=276 (30.564784053156146)
-doing turn 132
-Turn 132, total=918, hits=280 (30.501089324618736)
-doing turn 133
-Turn 133, total=937, hits=285 (30.416221985058698)
-doing turn 134
-Turn 134, total=945, hits=290 (30.687830687830687)
-doing turn 135
-Turn 135, total=956, hits=287 (30.02092050209205)
-doing turn 136
-Turn 136, total=971, hits=293 (30.175077239958807)
-doing turn 137
-Turn 137, total=974, hits=291 (29.876796714579054)
-doing turn 138
-Turn 138, total=989, hits=286 (28.918099089989887)
-doing turn 139
-Turn 139, total=987, hits=297 (30.091185410334347)
-doing turn 140
-Turn 140, total=1004, hits=301 (29.9800796812749)
-doing turn 141
-Turn 141, total=1019, hits=298 (29.244357212953876)
-doing turn 142
-Turn 142, total=1029, hits=297 (28.862973760932945)
-doing turn 143
-Turn 143, total=1047, hits=319 (30.46800382043935)
-doing turn 144
-Turn 144, total=1059, hits=315 (29.745042492917847)
-doing turn 145
-Turn 145, total=1076, hits=316 (29.36802973977695)
-doing turn 146
-Turn 146, total=1097, hits=313 (28.53236098450319)
-doing turn 147
-Turn 147, total=1108, hits=318 (28.700361010830324)
-doing turn 148
-Turn 148, total=1122, hits=320 (28.520499108734402)
-doing turn 149
-Turn 149, total=1140, hits=299 (26.228070175438596)
-doing turn 150
-Turn 150, total=1155, hits=322 (27.87878787878788)
-doing turn 151
-Turn 151, total=1176, hits=327 (27.806122448979593)
-doing turn 152
-Turn 152, total=1193, hits=332 (27.8290025146689)
-doing turn 153
-Turn 153, total=1201, hits=327 (27.227310574521233)
-doing turn 154
-Turn 154, total=1214, hits=331 (27.26523887973641)
-doing turn 155
-Turn 155, total=1232, hits=335 (27.191558441558442)
-doing turn 156
-Turn 156, total=1262, hits=349 (27.654516640253565)
-doing turn 157
-Turn 157, total=1280, hits=352 (27.5)
-doing turn 158
-Turn 158, total=1297, hits=370 (28.527370855821125)
-doing turn 159
-Turn 159, total=1315, hits=360 (27.376425855513308)
-doing turn 160
-Turn 160, total=1335, hits=356 (26.666666666666668)
-doing turn 161
-Turn 161, total=1353, hits=365 (26.97708795269771)
-doing turn 162
-Turn 162, total=1377, hits=374 (27.160493827160494)
-doing turn 163
-Turn 163, total=1400, hits=387 (27.642857142857142)
-doing turn 164
-Turn 164, total=1418, hits=379 (26.7277856135402)
-doing turn 165
-Turn 165, total=1449, hits=388 (26.777087646652863)
-doing turn 166
-Turn 166, total=1483, hits=397 (26.77006068779501)
-doing turn 167
-Turn 167, total=1514, hits=390 (25.759577278731836)
-doing turn 168
-Turn 168, total=1537, hits=408 (26.545217957059208)
-doing turn 169
-Turn 169, total=1569, hits=422 (26.896112173358826)
-doing turn 170
-Turn 170, total=1603, hits=439 (27.38615096693699)
-doing turn 171
-Turn 171, total=1630, hits=434 (26.625766871165645)
-doing turn 172
-Turn 172, total=1650, hits=442 (26.78787878787879)
-doing turn 173
-Turn 173, total=1666, hits=447 (26.830732292917165)
-doing turn 174
-Turn 174, total=1678, hits=446 (26.579261025029798)
-doing turn 175
-Turn 175, total=1701, hits=453 (26.631393298059965)
-doing turn 176
-Turn 176, total=1735, hits=453 (26.10951008645533)
-doing turn 177
-Turn 177, total=1763, hits=471 (26.715825297787863)
-doing turn 178
-Turn 178, total=1787, hits=497 (27.811975377728036)
-doing turn 179
-Turn 179, total=1818, hits=485 (26.67766776677668)
-doing turn 180
-Turn 180, total=1854, hits=484 (26.10571736785329)
-doing turn 181
-Turn 181, total=1885, hits=502 (26.631299734748012)
-doing turn 182
-Turn 182, total=1911, hits=522 (27.315541601255887)
-doing turn 183
-Turn 183, total=1949, hits=537 (27.552591072344793)
-doing turn 184
-Turn 184, total=1969, hits=524 (26.612493651599795)
-doing turn 185
-Turn 185, total=1997, hits=538 (26.940410615923884)
-doing turn 186
-Turn 186, total=2032, hits=543 (26.72244094488189)
-doing turn 187
-Turn 187, total=2055, hits=554 (26.958637469586375)
-doing turn 188
-Turn 188, total=2093, hits=554 (26.46918299092212)
-doing turn 189
-Turn 189, total=2122, hits=548 (25.82469368520264)
-doing turn 190
-Turn 190, total=2150, hits=569 (26.46511627906977)
-doing turn 191
-Turn 191, total=2166, hits=562 (25.946445060018466)
-doing turn 192
-Turn 192, total=2181, hits=572 (26.226501604768455)
-doing turn 193
-Turn 193, total=2176, hits=559 (25.689338235294116)
-doing turn 194
-Turn 194, total=2195, hits=564 (25.69476082004556)
-doing turn 195
-Turn 195, total=2204, hits=556 (25.226860254083483)
-doing turn 196
-Turn 196, total=2207, hits=570 (25.826914363389218)
-doing turn 197
-Turn 197, total=2207, hits=562 (25.464431354780245)
-doing turn 198
-Turn 198, total=2207, hits=568 (25.736293611236974)
-doing turn 199
-Turn 199, total=2212, hits=578 (26.130198915009043)
-doing turn 200
-Turn 200, total=2202, hits=581 (26.385104450499547)
-doing turn 201
-Turn 201, total=2223, hits=587 (26.405757984705353)
-doing turn 202
-Turn 202, total=2232, hits=573 (25.672043010752688)
-doing turn 203
-Turn 203, total=2255, hits=570 (25.277161862527716)
-doing turn 204
-Turn 204, total=2254, hits=566 (25.110913930789707)
-doing turn 205
-Turn 205, total=2233, hits=563 (25.21271831616659)
-doing turn 206
-Turn 206, total=2244, hits=583 (25.980392156862745)
-doing turn 207
-Turn 207, total=2245, hits=571 (25.434298440979955)
-doing turn 208
-Turn 208, total=2253, hits=544 (24.145583666222812)
-doing turn 209
-Turn 209, total=2266, hits=527 (23.25684024713151)
-doing turn 210
-Turn 210, total=2267, hits=546 (24.08469342743714)
-doing turn 211
-Turn 211, total=2269, hits=564 (24.8567650947554)
-doing turn 212
-Turn 212, total=2282, hits=563 (24.67134092900964)
-doing turn 213
-Turn 213, total=2277, hits=556 (24.418093983311376)
-doing turn 214
-Turn 214, total=2282, hits=553 (24.233128834355828)
-doing turn 215
-Turn 215, total=2295, hits=561 (24.444444444444443)
-doing turn 216
-Turn 216, total=2315, hits=549 (23.714902807775378)
-doing turn 217
-Turn 217, total=2324, hits=568 (24.440619621342513)
-doing turn 218
-Turn 218, total=2328, hits=553 (23.754295532646047)
-doing turn 219
-Turn 219, total=2337, hits=548 (23.448866067608044)
-doing turn 220
-Turn 220, total=2330, hits=550 (23.605150214592275)
-doing turn 221
-Turn 221, total=2335, hits=551 (23.597430406852247)
-doing turn 222
-Turn 222, total=2336, hits=551 (23.58732876712329)
-doing turn 223
-Turn 223, total=2339, hits=547 (23.386062419837536)
-doing turn 224
-Turn 224, total=2351, hits=564 (23.989791578051893)
-doing turn 225
-Turn 225, total=2343, hits=557 (23.772940674349126)
-doing turn 226
-Turn 226, total=2342, hits=561 (23.95388556789069)
-doing turn 227
-Turn 227, total=2328, hits=555 (23.84020618556701)
-doing turn 228
-Turn 228, total=2331, hits=561 (24.066924066924066)
-doing turn 229
-Turn 229, total=2340, hits=551 (23.54700854700855)
-doing turn 230
-Turn 230, total=2357, hits=544 (23.080186677980485)
-doing turn 231
-Turn 231, total=2358, hits=530 (22.476675148430875)
-doing turn 232
-Turn 232, total=2355, hits=547 (23.227176220806793)
-doing turn 233
-Turn 233, total=2360, hits=542 (22.966101694915253)
-doing turn 234
-Turn 234, total=2352, hits=530 (22.534013605442176)
-doing turn 235
-Turn 235, total=2362, hits=567 (24.005080440304827)
-doing turn 236
-Turn 236, total=2377, hits=593 (24.94741270509045)
-doing turn 237
-Turn 237, total=2399, hits=581 (24.21842434347645)
-doing turn 238
-Turn 238, total=2412, hits=598 (24.792703150912107)
-doing turn 239
-Turn 239, total=2420, hits=601 (24.834710743801654)
-doing turn 240
-Turn 240, total=2424, hits=575 (23.721122112211223)
-doing turn 241
-Turn 241, total=2436, hits=603 (24.753694581280786)
-doing turn 242
-Turn 242, total=2446, hits=609 (24.897792313982013)
-doing turn 243
-Turn 243, total=2448, hits=603 (24.63235294117647)
-doing turn 244
-Turn 244, total=2455, hits=601 (24.480651731160897)
-doing turn 245
-Turn 245, total=2480, hits=618 (24.919354838709676)
-doing turn 246
-Turn 246, total=2495, hits=610 (24.448897795591183)
-doing turn 247
-Turn 247, total=2494, hits=627 (25.140336808340017)
-doing turn 248
-Turn 248, total=2509, hits=617 (24.591470705460342)
-doing turn 249
-Turn 249, total=2514, hits=595 (23.667462211614957)
-doing turn 250
-Turn 250, total=2518, hits=610 (24.225575853852263)
-doing turn 251
-Turn 251, total=1709, hits=390 (22.820362785254535)
-doing turn 252
-Turn 252, total=1710, hits=401 (23.450292397660817)
-doing turn 253
-Turn 253, total=1702, hits=398 (23.384253819036427)
-doing turn 254
-Turn 254, total=1705, hits=395 (23.167155425219942)
-doing turn 255
-Turn 255, total=1702, hits=402 (23.6192714453584)
-doing turn 256
-Turn 256, total=1700, hits=394 (23.176470588235293)
-doing turn 257
-Turn 257, total=1699, hits=388 (22.836962919364332)
-doing turn 258
-Turn 258, total=1689, hits=381 (22.55772646536412)
-doing turn 259
-Turn 259, total=1693, hits=377 (22.268163024217365)
-doing turn 260
-Turn 260, total=1692, hits=372 (21.98581560283688)
-doing turn 261
-Turn 261, total=1708, hits=379 (22.18969555035129)
-doing turn 262
-Turn 262, total=1708, hits=372 (21.779859484777518)
-doing turn 263
-Turn 263, total=1710, hits=363 (21.228070175438596)
-doing turn 264
-Turn 264, total=1701, hits=357 (20.987654320987655)
-doing turn 265
-Turn 265, total=1687, hits=374 (22.169531713100177)
-doing turn 266
-Turn 266, total=1689, hits=373 (22.084073416222616)
-doing turn 267
-Turn 267, total=1682, hits=373 (22.175980975029727)
-doing turn 268
-Turn 268, total=1677, hits=371 (22.12283840190817)
-doing turn 269
-Turn 269, total=1679, hits=367 (21.858248957712924)
-doing turn 270
-Turn 270, total=1687, hits=355 (21.04327208061648)
-doing turn 271
-Turn 271, total=1688, hits=350 (20.734597156398106)
-doing turn 272
-Turn 272, total=1688, hits=351 (20.79383886255924)
-doing turn 273
-Turn 273, total=1683, hits=358 (21.27153891859774)
-doing turn 274
-Turn 274, total=1676, hits=365 (21.778042959427207)
-doing turn 275
-Turn 275, total=1645, hits=362 (22.00607902735562)
-doing turn 276
-Turn 276, total=1632, hits=367 (22.487745098039216)
-doing turn 277
-Turn 277, total=1644, hits=375 (22.81021897810219)
-doing turn 278
-Turn 278, total=1644, hits=377 (22.931873479318735)
-doing turn 279
-Turn 279, total=1651, hits=388 (23.50090854027862)
-doing turn 280
-Turn 280, total=1649, hits=377 (22.862340812613706)
-doing turn 281
-Turn 281, total=1640, hits=370 (22.5609756097561)
-doing turn 282
-Turn 282, total=1625, hits=373 (22.953846153846154)
-doing turn 283
-Turn 283, total=1606, hits=377 (23.474470734744706)
-doing turn 284
-Turn 284, total=1620, hits=378 (23.333333333333332)
-doing turn 285
-Turn 285, total=1623, hits=378 (23.290203327171906)
-doing turn 286
-Turn 286, total=1620, hits=370 (22.839506172839506)
-doing turn 287
-Turn 287, total=1624, hits=359 (22.10591133004926)
-doing turn 288
-Turn 288, total=1625, hits=352 (21.661538461538463)
-doing turn 289
-Turn 289, total=1596, hits=359 (22.493734335839598)
-doing turn 290
-Turn 290, total=1589, hits=350 (22.026431718061673)
-doing turn 291
-Turn 291, total=1584, hits=347 (21.906565656565657)
-doing turn 292
-Turn 292, total=1596, hits=358 (22.43107769423559)
-doing turn 293
-Turn 293, total=1594, hits=352 (22.082810539523212)
-doing turn 294
-Turn 294, total=1594, hits=368 (23.086574654956085)
-doing turn 295
-Turn 295, total=1598, hits=366 (22.90362953692115)
-doing turn 296
-Turn 296, total=1591, hits=362 (22.752985543683216)
-doing turn 297
-Turn 297, total=1583, hits=364 (22.9943145925458)
-doing turn 298
-Turn 298, total=1575, hits=362 (22.984126984126984)
-doing turn 299
-Turn 299, total=1575, hits=353 (22.41269841269841)
-doing turn 300
-Turn 300, total=1573, hits=360 (22.88620470438652)
-doing turn 301
-Turn 301, total=1578, hits=364 (23.067173637515843)
-doing turn 302
-Turn 302, total=1573, hits=364 (23.140495867768596)
-doing turn 303
-Turn 303, total=1555, hits=358 (23.022508038585208)
-doing turn 304
-Turn 304, total=1553, hits=357 (22.987765614938827)
-doing turn 305
-Turn 305, total=1533, hits=353 (23.026744944553165)
-doing turn 306
-Turn 306, total=1531, hits=342 (22.33834095362508)
-doing turn 307
-Turn 307, total=1503, hits=346 (23.020625415834996)
-doing turn 308
-Turn 308, total=1494, hits=335 (22.42302543507363)
-doing turn 309
-Turn 309, total=1494, hits=339 (22.690763052208837)
-doing turn 310
-Turn 310, total=1484, hits=331 (22.304582210242586)
-doing turn 311
-Turn 311, total=1463, hits=328 (22.419685577580314)
-doing turn 312
-Turn 312, total=1456, hits=323 (22.184065934065934)
-doing turn 313
-Turn 313, total=1455, hits=334 (22.9553264604811)
-doing turn 314
-Turn 314, total=1446, hits=335 (23.167358229598893)
-doing turn 315
-Turn 315, total=1440, hits=325 (22.569444444444443)
-doing turn 316
-Turn 316, total=1418, hits=327 (23.060648801128348)
-doing turn 317
-Turn 317, total=1410, hits=342 (24.25531914893617)
-doing turn 318
-Turn 318, total=1407, hits=334 (23.738450604122246)
-doing turn 319
-Turn 319, total=1377, hits=331 (24.037763253449526)
-doing turn 320
-Turn 320, total=1350, hits=339 (25.11111111111111)
-doing turn 321
-Turn 321, total=1351, hits=339 (25.092524056254625)
-doing turn 322
-Turn 322, total=1348, hits=320 (23.73887240356083)
-doing turn 323
-Turn 323, total=1338, hits=327 (24.43946188340807)
-doing turn 324
-Turn 324, total=1332, hits=318 (23.873873873873872)
-doing turn 325
-Turn 325, total=1338, hits=325 (24.28998505231689)
-doing turn 326
-Turn 326, total=1347, hits=320 (23.756495916852263)
-doing turn 327
-Turn 327, total=1326, hits=315 (23.755656108597286)
-doing turn 328
-Turn 328, total=1330, hits=308 (23.157894736842106)
-doing turn 329
-Turn 329, total=1327, hits=317 (23.888470233609645)
-doing turn 330
-Turn 330, total=1315, hits=320 (24.334600760456272)
-doing turn 331
-Turn 331, total=1289, hits=315 (24.43754848719938)
-doing turn 332
-Turn 332, total=1285, hits=297 (23.11284046692607)
-doing turn 333
-Turn 333, total=1277, hits=297 (23.257635082223963)
-doing turn 334
-Turn 334, total=1272, hits=288 (22.641509433962263)
-doing turn 335
-Turn 335, total=1256, hits=276 (21.97452229299363)
-doing turn 336
-Turn 336, total=1239, hits=269 (21.71105730427764)
-doing turn 337
-Turn 337, total=1238, hits=276 (22.294022617124394)
-doing turn 338
-Turn 338, total=1226, hits=282 (23.00163132137031)
-doing turn 339
-Turn 339, total=1205, hits=280 (23.236514522821576)
-doing turn 340
-Turn 340, total=1204, hits=274 (22.757475083056477)
-doing turn 341
-Turn 341, total=1183, hits=259 (21.893491124260354)
-doing turn 342
-Turn 342, total=1184, hits=252 (21.283783783783782)
-doing turn 343
-Turn 343, total=1153, hits=243 (21.075455333911535)
-doing turn 344
-Turn 344, total=1134, hits=235 (20.72310405643739)
-doing turn 345
-Turn 345, total=1124, hits=228 (20.284697508896798)
-doing turn 346
-Turn 346, total=1113, hits=226 (20.305480682839175)
-doing turn 347
-Turn 347, total=1081, hits=231 (21.369102682701204)
-doing turn 348
-Turn 348, total=1057, hits=225 (21.28666035950804)
-doing turn 349
-Turn 349, total=1031, hits=223 (21.62948593598448)
-doing turn 350
-Turn 350, total=1017, hits=222 (21.828908554572273)
-doing turn 351
-Turn 351, total=1008, hits=239 (23.71031746031746)
-doing turn 352
-Turn 352, total=993, hits=234 (23.564954682779454)
-doing turn 353
-Turn 353, total=983, hits=222 (22.583926754832145)
-doing turn 354
-Turn 354, total=980, hits=220 (22.448979591836736)
-doing turn 355
-Turn 355, total=970, hits=215 (22.164948453608247)
-doing turn 356
-Turn 356, total=949, hits=208 (21.91780821917808)
-doing turn 357
-Turn 357, total=933, hits=203 (21.757770632368704)
-doing turn 358
-Turn 358, total=929, hits=211 (22.71259418729817)
-doing turn 359
-Turn 359, total=917, hits=204 (22.246455834242095)
-doing turn 360
-Turn 360, total=900, hits=212 (23.555555555555557)
-doing turn 361
-Turn 361, total=888, hits=213 (23.986486486486488)
-doing turn 362
-Turn 362, total=878, hits=197 (22.4373576309795)
-doing turn 363
-Turn 363, total=873, hits=184 (21.076746849942726)
-doing turn 364
-Turn 364, total=859, hits=180 (20.954598370197903)
-doing turn 365
-Turn 365, total=850, hits=175 (20.58823529411765)
-doing turn 366
-Turn 366, total=841, hits=170 (20.214030915576693)
-doing turn 367
-Turn 367, total=814, hits=173 (21.25307125307125)
-doing turn 368
-Turn 368, total=804, hits=169 (21.019900497512438)
-doing turn 369
-Turn 369, total=785, hits=171 (21.78343949044586)
-doing turn 370
-Turn 370, total=751, hits=164 (21.837549933422103)
-doing turn 251
-Turn 251, total=2507, hits=605 (24.132429198244914)
-doing turn 252
-Turn 252, total=2490, hits=611 (24.538152610441767)
-doing turn 253
-Turn 253, total=2488, hits=593 (23.834405144694532)
-doing turn 254
-Turn 254, total=2519, hits=603 (23.938070662961493)
-doing turn 255
-Turn 255, total=2524, hits=606 (24.009508716323296)
-doing turn 256
-Turn 256, total=2525, hits=624 (24.712871287128714)
-doing turn 257
-Turn 257, total=2531, hits=627 (24.77281706835243)
-doing turn 258
-Turn 258, total=2524, hits=605 (23.96988906497623)
-doing turn 259
-Turn 259, total=2523, hits=594 (23.543400713436384)
-doing turn 260
-Turn 260, total=2515, hits=601 (23.89662027833002)
-doing turn 261
-Turn 261, total=2516, hits=616 (24.483306836248012)
-doing turn 262
-Turn 262, total=2514, hits=618 (24.58233890214797)
-doing turn 263
-Turn 263, total=2521, hits=607 (24.077746925823085)
-doing turn 264
-Turn 264, total=2527, hits=639 (25.286901464186784)
-doing turn 265
-Turn 265, total=2522, hits=619 (24.544012688342587)
-doing turn 266
-Turn 266, total=2515, hits=621 (24.691848906560637)
-doing turn 267
-Turn 267, total=2524, hits=639 (25.316957210776547)
-doing turn 268
-Turn 268, total=2540, hits=624 (24.566929133858267)
-doing turn 269
-Turn 269, total=2533, hits=631 (24.911172522700355)
-doing turn 270
-Turn 270, total=2528, hits=625 (24.723101265822784)
-doing turn 271
-Turn 271, total=2534, hits=636 (25.09865824782952)
-doing turn 272
-Turn 272, total=2521, hits=684 (27.132090440301468)
-doing turn 273
-Turn 273, total=2532, hits=685 (27.053712480252763)
-doing turn 274
-Turn 274, total=2535, hits=660 (26.035502958579883)
-doing turn 275
-Turn 275, total=2542, hits=684 (26.907946498819825)
-doing turn 276
-Turn 276, total=2557, hits=680 (26.593664450527964)
-doing turn 277
-Turn 277, total=2544, hits=669 (26.297169811320753)
-doing turn 278
-Turn 278, total=2542, hits=677 (26.632572777340677)
-doing turn 279
-Turn 279, total=2550, hits=642 (25.176470588235293)
-doing turn 280
-Turn 280, total=2551, hits=657 (25.754606036848294)
-doing turn 281
-Turn 281, total=2573, hits=670 (26.039642440730663)
-doing turn 282
-Turn 282, total=2576, hits=670 (26.009316770186334)
-doing turn 283
-Turn 283, total=2582, hits=678 (26.258714175058095)
-doing turn 284
-Turn 284, total=2601, hits=672 (25.836216839677046)
-doing turn 285
-Turn 285, total=2593, hits=675 (26.0316236020054)
-doing turn 286
-Turn 286, total=2583, hits=680 (26.325977545489742)
-doing turn 287
-Turn 287, total=2600, hits=686 (26.384615384615383)
-doing turn 288
-Turn 288, total=2620, hits=681 (25.99236641221374)
-doing turn 289
-Turn 289, total=2617, hits=679 (25.945739396255256)
-doing turn 290
-Turn 290, total=2640, hits=699 (26.477272727272727)
-doing turn 291
-Turn 291, total=2645, hits=705 (26.65406427221172)
-doing turn 292
-Turn 292, total=2641, hits=696 (26.353653918970085)
-doing turn 293
-Turn 293, total=2633, hits=677 (25.712115457652867)
-doing turn 294
-Turn 294, total=2639, hits=690 (26.14626752557787)
-doing turn 295
-Turn 295, total=2637, hits=705 (26.734926052332195)
-doing turn 296
-Turn 296, total=2631, hits=703 (26.719878373242114)
-doing turn 297
-Turn 297, total=2646, hits=692 (26.152683295540438)
-doing turn 298
-Turn 298, total=2652, hits=684 (25.79185520361991)
-doing turn 299
-Turn 299, total=2660, hits=692 (26.015037593984964)
-doing turn 300
-Turn 300, total=2663, hits=691 (25.94817874577544)
-doing turn 301
-Turn 301, total=2653, hits=672 (25.329815303430077)
-doing turn 302
-Turn 302, total=2667, hits=675 (25.30933633295838)
-doing turn 303
-Turn 303, total=2663, hits=646 (24.25835523845287)
-doing turn 304
-Turn 304, total=2689, hits=649 (24.13536630717739)
-doing turn 305
-Turn 305, total=2692, hits=661 (24.554234769687966)
-doing turn 306
-Turn 306, total=2710, hits=672 (24.797047970479706)
-doing turn 307
-Turn 307, total=2718, hits=679 (24.98160412067697)
-doing turn 308
-Turn 308, total=2720, hits=681 (25.03676470588235)
-doing turn 309
-Turn 309, total=2733, hits=696 (25.466520307354557)
-doing turn 310
-Turn 310, total=2739, hits=712 (25.994888645491056)
-doing turn 311
-Turn 311, total=2753, hits=717 (26.04431529240828)
-doing turn 312
-Turn 312, total=2765, hits=724 (26.184448462929474)
-doing turn 313
-Turn 313, total=2760, hits=718 (26.014492753623188)
-doing turn 314
-Turn 314, total=2770, hits=720 (25.9927797833935)
-doing turn 315
-Turn 315, total=2783, hits=710 (25.51203736974488)
-doing turn 316
-Turn 316, total=2805, hits=705 (25.13368983957219)
-doing turn 317
-Turn 317, total=2812, hits=687 (24.431009957325745)
-doing turn 318
-Turn 318, total=2828, hits=690 (24.3988684582744)
-doing turn 319
-Turn 319, total=2840, hits=678 (23.87323943661972)
-doing turn 320
-Turn 320, total=2852, hits=655 (22.966339410939693)
-doing turn 321
-Turn 321, total=2863, hits=670 (23.402025847013622)
-doing turn 322
-Turn 322, total=2867, hits=682 (23.787931635856296)
-doing turn 323
-Turn 323, total=2886, hits=683 (23.665973665973667)
-doing turn 324
-Turn 324, total=2895, hits=708 (24.4559585492228)
-doing turn 325
-Turn 325, total=2884, hits=694 (24.06380027739251)
-doing turn 326
-Turn 326, total=2900, hits=732 (25.24137931034483)
-doing turn 327
-Turn 327, total=2882, hits=721 (25.01734906315059)
-doing turn 328
-Turn 328, total=2891, hits=705 (24.38602559667935)
-doing turn 329
-Turn 329, total=2910, hits=710 (24.398625429553263)
-doing turn 330
-Turn 330, total=2932, hits=700 (23.874488403819917)
-doing turn 331
-Turn 331, total=2951, hits=726 (24.6018298881735)
-doing turn 332
-Turn 332, total=2961, hits=733 (24.75515028706518)
-doing turn 333
-Turn 333, total=2966, hits=731 (24.645987862440997)
-doing turn 334
-Turn 334, total=2980, hits=771 (25.87248322147651)
-doing turn 335
-Turn 335, total=2981, hits=763 (25.595437772559542)
-doing turn 336
-Turn 336, total=3003, hits=761 (25.34132534132534)
-doing turn 337
-Turn 337, total=3014, hits=775 (25.713337757133377)
-doing turn 338
-Turn 338, total=3030, hits=788 (26.006600660066006)
-doing turn 339
-Turn 339, total=3038, hits=774 (25.477287689269257)
-doing turn 340
-Turn 340, total=3049, hits=788 (25.84453919317809)
-doing turn 341
-Turn 341, total=3062, hits=781 (25.50620509470934)
-doing turn 342
-Turn 342, total=3076, hits=769 (25.0)
-doing turn 343
-Turn 343, total=3091, hits=777 (25.137495956001295)
-doing turn 344
-Turn 344, total=3107, hits=775 (24.943675571290633)
-doing turn 345
-Turn 345, total=3128, hits=784 (25.06393861892583)
-doing turn 346
-Turn 346, total=3141, hits=807 (25.69245463228271)
-doing turn 347
-Turn 347, total=3165, hits=808 (25.529225908372826)
-doing turn 348
-Turn 348, total=3184, hits=812 (25.502512562814072)
-doing turn 349
-Turn 349, total=3223, hits=801 (24.852621780949427)
-doing turn 350
-Turn 350, total=3250, hits=809 (24.892307692307693)
-doing turn 351
-Turn 351, total=3263, hits=809 (24.793135151700888)
-doing turn 352
-Turn 352, total=3263, hits=815 (24.977015016855653)
-doing turn 353
-Turn 353, total=3276, hits=805 (24.572649572649574)
-doing turn 354
-Turn 354, total=3297, hits=813 (24.658780709736124)
-doing turn 355
-Turn 355, total=3311, hits=812 (24.52431289640592)
-doing turn 356
-Turn 356, total=3329, hits=810 (24.331631120456592)
-doing turn 357
-Turn 357, total=3345, hits=804 (24.03587443946188)
-doing turn 358
-Turn 358, total=3357, hits=812 (24.188263330354484)
-doing turn 359
-Turn 359, total=3379, hits=831 (24.59307487422314)
-doing turn 360
-Turn 360, total=3390, hits=827 (24.3952802359882)
-doing turn 361
-Turn 361, total=3405, hits=809 (23.759177679882526)
-doing turn 362
-Turn 362, total=3414, hits=805 (23.579379027533683)
-doing turn 363
-Turn 363, total=3426, hits=798 (23.29246935201401)
-doing turn 364
-Turn 364, total=3436, hits=825 (24.010477299185098)
-doing turn 365
-Turn 365, total=3454, hits=831 (24.05906195715113)
-doing turn 366
-Turn 366, total=3473, hits=849 (24.445724157788657)
-doing turn 367
-Turn 367, total=3479, hits=842 (24.202356999137685)
-doing turn 368
-Turn 368, total=3505, hits=846 (24.13694721825963)
-doing turn 369
-Turn 369, total=3527, hits=845 (23.958037992628295)
-doing turn 370
-Turn 370, total=3557, hits=872 (24.515040764689346)
+Turn 118, total=3, hits=0 (0.0)

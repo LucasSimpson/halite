@@ -1,0 +1,531 @@
+Log initialized
+Strategy initialized
+Strategy initialized
+Strategy initialized
+Strategy initialized
+Strategy initialized
+Strategy initialized
+Strategy initialized
+Strategy initialized
+Strategy initialized
+Strategy initialized
+Strategy initialized
+Strategy initialized
+Strategy initialized
+Strategy initialized
+Strategy initialized
+
+doing turn 1
+controll 0 tiles
+no group found for Location(5, 10)
+inserting into Group(0)
+executing Group(0)
+Target is Location(4, 10)
+Location(5, 10) doing move 4
+
+doing turn 2
+controll 1 tiles
+no group found for Location(4, 10)
+inserting into Group(0)
+executing Group(0)
+Target is Location(4, 11)
+
+doing turn 3
+controll 2 tiles
+executing Group(0)
+Target is Location(4, 11)
+Location(5, 10) doing move 4
+Location(4, 10) doing move 3
+
+doing turn 4
+controll 2 tiles
+no group found for Location(4, 11)
+inserting into Group(0)
+executing Group(0)
+Target is Location(4, 12)
+
+doing turn 5
+controll 3 tiles
+executing Group(0)
+Target is Location(4, 12)
+Location(5, 10) doing move 4
+Location(4, 10) doing move 3
+Location(4, 11) doing move 3
+
+doing turn 6
+controll 3 tiles
+executing Group(0)
+Target is Location(4, 12)
+Location(5, 10) doing move 4
+Location(4, 10) doing move 3
+Location(4, 11) doing move 3
+
+doing turn 7
+controll 3 tiles
+no group found for Location(4, 12)
+inserting into Group(1)
+executing Group(0)
+Target is Location(3, 11)
+executing Group(1)
+Target is Location(3, 12)
+
+doing turn 8
+controll 4 tiles
+executing Group(0)
+Target is Location(3, 11)
+Location(5, 10) doing move 4
+Location(4, 10) doing move 3
+Location(4, 11) doing move 4
+executing Group(1)
+Target is Location(3, 12)
+Location(4, 12) doing move 4
+
+doing turn 9
+controll 4 tiles
+no group found for Location(3, 11)
+inserting into Group(1)
+no group found for Location(3, 12)
+inserting into Group(1)
+executing Group(0)
+Target is Location(5, 11)
+executing Group(1)
+Target is Location(3, 13)
+Location(4, 12) doing move 4
+Location(3, 11) doing move 3
+Location(3, 12) doing move 3
+
+doing turn 10
+controll 6 tiles
+Turn 10, total=7, hits=0 (0.0)
+
+doing turn 11
+controll 7 tiles
+Turn 11, total=7, hits=7 (100.0)
+
+doing turn 12
+controll 7 tiles
+Turn 12, total=7, hits=2 (28.571428571428573)
+
+doing turn 13
+controll 7 tiles
+Turn 13, total=11, hits=7 (63.63636363636363)
+
+doing turn 14
+controll 11 tiles
+Turn 14, total=12, hits=2 (16.666666666666668)
+
+doing turn 15
+controll 12 tiles
+Turn 15, total=15, hits=9 (60.0)
+
+doing turn 16
+controll 15 tiles
+Turn 16, total=15, hits=9 (60.0)
+
+doing turn 17
+controll 15 tiles
+Turn 17, total=17, hits=9 (52.94117647058823)
+
+doing turn 18
+controll 17 tiles
+Turn 18, total=19, hits=7 (36.8421052631579)
+
+doing turn 19
+controll 19 tiles
+Turn 19, total=23, hits=11 (47.82608695652174)
+
+doing turn 20
+controll 23 tiles
+Turn 20, total=25, hits=11 (44.0)
+
+doing turn 21
+controll 25 tiles
+Turn 21, total=27, hits=13 (48.148148148148145)
+
+doing turn 22
+controll 27 tiles
+Turn 22, total=30, hits=15 (50.0)
+
+doing turn 23
+controll 30 tiles
+Turn 23, total=33, hits=13 (39.39393939393939)
+
+doing turn 24
+controll 33 tiles
+Turn 24, total=37, hits=16 (43.24324324324324)
+
+doing turn 25
+controll 37 tiles
+Turn 25, total=42, hits=14 (33.333333333333336)
+
+doing turn 26
+controll 42 tiles
+Turn 26, total=40, hits=20 (50.0)
+
+doing turn 27
+controll 40 tiles
+Turn 27, total=42, hits=20 (47.61904761904762)
+
+doing turn 28
+controll 42 tiles
+Turn 28, total=47, hits=20 (42.5531914893617)
+
+doing turn 29
+controll 47 tiles
+Turn 29, total=48, hits=23 (47.916666666666664)
+
+doing turn 30
+controll 48 tiles
+Turn 30, total=49, hits=19 (38.775510204081634)
+
+doing turn 31
+controll 49 tiles
+Turn 31, total=51, hits=19 (37.254901960784316)
+
+doing turn 32
+controll 51 tiles
+Turn 32, total=55, hits=22 (40.0)
+
+doing turn 33
+controll 55 tiles
+Turn 33, total=56, hits=20 (35.714285714285715)
+
+doing turn 34
+controll 56 tiles
+Turn 34, total=57, hits=25 (43.85964912280702)
+
+doing turn 35
+controll 57 tiles
+Turn 35, total=59, hits=22 (37.28813559322034)
+
+doing turn 36
+controll 59 tiles
+Turn 36, total=65, hits=23 (35.38461538461539)
+
+doing turn 37
+controll 65 tiles
+Turn 37, total=64, hits=21 (32.8125)
+
+doing turn 38
+controll 64 tiles
+Turn 38, total=71, hits=25 (35.2112676056338)
+
+doing turn 39
+controll 71 tiles
+Turn 39, total=75, hits=28 (37.333333333333336)
+
+doing turn 40
+controll 75 tiles
+Turn 40, total=77, hits=33 (42.857142857142854)
+
+doing turn 41
+controll 77 tiles
+Turn 41, total=83, hits=31 (37.34939759036145)
+
+doing turn 42
+controll 83 tiles
+Turn 42, total=83, hits=31 (37.34939759036145)
+
+doing turn 43
+controll 83 tiles
+Turn 43, total=88, hits=30 (34.09090909090909)
+
+doing turn 44
+controll 88 tiles
+Turn 44, total=91, hits=34 (37.362637362637365)
+
+doing turn 45
+controll 91 tiles
+Turn 45, total=91, hits=37 (40.65934065934066)
+
+doing turn 46
+controll 91 tiles
+Turn 46, total=95, hits=37 (38.94736842105263)
+
+doing turn 47
+controll 95 tiles
+Turn 47, total=101, hits=38 (37.62376237623762)
+
+doing turn 48
+controll 101 tiles
+Turn 48, total=106, hits=40 (37.735849056603776)
+
+doing turn 49
+controll 106 tiles
+Turn 49, total=112, hits=41 (36.607142857142854)
+
+doing turn 50
+controll 112 tiles
+Turn 50, total=117, hits=53 (45.2991452991453)
+
+doing turn 51
+controll 117 tiles
+Turn 51, total=117, hits=48 (41.02564102564103)
+
+doing turn 52
+controll 117 tiles
+Turn 52, total=119, hits=45 (37.81512605042017)
+
+doing turn 53
+controll 119 tiles
+Turn 53, total=122, hits=51 (41.80327868852459)
+
+doing turn 54
+controll 122 tiles
+Turn 54, total=127, hits=42 (33.07086614173228)
+
+doing turn 55
+controll 127 tiles
+Turn 55, total=130, hits=44 (33.84615384615385)
+
+doing turn 56
+controll 130 tiles
+Turn 56, total=134, hits=42 (31.34328358208955)
+
+doing turn 57
+controll 134 tiles
+Turn 57, total=137, hits=50 (36.496350364963504)
+
+doing turn 58
+controll 137 tiles
+Turn 58, total=135, hits=44 (32.592592592592595)
+
+doing turn 59
+controll 135 tiles
+Turn 59, total=130, hits=55 (42.30769230769231)
+
+doing turn 60
+controll 130 tiles
+Turn 60, total=138, hits=45 (32.608695652173914)
+
+doing turn 61
+controll 138 tiles
+Turn 61, total=140, hits=48 (34.285714285714285)
+
+doing turn 62
+controll 140 tiles
+Turn 62, total=152, hits=49 (32.23684210526316)
+
+doing turn 63
+controll 152 tiles
+Turn 63, total=158, hits=44 (27.848101265822784)
+
+doing turn 64
+controll 158 tiles
+Turn 64, total=158, hits=56 (35.44303797468354)
+
+doing turn 65
+controll 158 tiles
+Turn 65, total=165, hits=49 (29.696969696969695)
+
+doing turn 66
+controll 165 tiles
+Turn 66, total=162, hits=51 (31.48148148148148)
+
+doing turn 67
+controll 162 tiles
+Turn 67, total=163, hits=43 (26.380368098159508)
+
+doing turn 68
+controll 163 tiles
+Turn 68, total=156, hits=47 (30.128205128205128)
+
+doing turn 69
+controll 156 tiles
+Turn 69, total=162, hits=48 (29.62962962962963)
+
+doing turn 70
+controll 162 tiles
+Turn 70, total=162, hits=38 (23.45679012345679)
+
+doing turn 71
+controll 162 tiles
+Turn 71, total=164, hits=43 (26.21951219512195)
+
+doing turn 72
+controll 164 tiles
+Turn 72, total=168, hits=45 (26.785714285714285)
+
+doing turn 73
+controll 168 tiles
+Turn 73, total=174, hits=40 (22.988505747126435)
+
+doing turn 74
+controll 174 tiles
+Turn 74, total=175, hits=43 (24.571428571428573)
+
+doing turn 75
+controll 175 tiles
+Turn 75, total=177, hits=45 (25.423728813559322)
+
+doing turn 76
+controll 177 tiles
+Turn 76, total=176, hits=47 (26.704545454545453)
+
+doing turn 77
+controll 176 tiles
+Turn 77, total=179, hits=44 (24.58100558659218)
+
+doing turn 78
+controll 179 tiles
+Turn 78, total=175, hits=39 (22.285714285714285)
+
+doing turn 79
+controll 175 tiles
+Turn 79, total=179, hits=40 (22.3463687150838)
+
+doing turn 80
+controll 179 tiles
+Turn 80, total=181, hits=37 (20.441988950276244)
+
+doing turn 81
+controll 181 tiles
+Turn 81, total=184, hits=33 (17.934782608695652)
+
+doing turn 82
+controll 184 tiles
+Turn 82, total=180, hits=37 (20.555555555555557)
+
+doing turn 83
+controll 180 tiles
+Turn 83, total=183, hits=35 (19.12568306010929)
+
+doing turn 84
+controll 183 tiles
+Turn 84, total=190, hits=40 (21.05263157894737)
+
+doing turn 85
+controll 190 tiles
+Turn 85, total=181, hits=30 (16.574585635359117)
+
+doing turn 86
+controll 181 tiles
+Turn 86, total=183, hits=35 (19.12568306010929)
+
+doing turn 87
+controll 183 tiles
+Turn 87, total=181, hits=38 (20.994475138121548)
+
+doing turn 88
+controll 181 tiles
+Turn 88, total=181, hits=36 (19.88950276243094)
+
+doing turn 89
+controll 181 tiles
+Turn 89, total=184, hits=35 (19.02173913043478)
+
+doing turn 90
+controll 184 tiles
+Turn 90, total=194, hits=39 (20.103092783505154)
+
+doing turn 91
+controll 194 tiles
+Turn 91, total=192, hits=41 (21.354166666666668)
+
+doing turn 92
+controll 192 tiles
+Turn 92, total=195, hits=37 (18.974358974358974)
+
+doing turn 93
+controll 195 tiles
+Turn 93, total=197, hits=38 (19.289340101522843)
+
+doing turn 94
+controll 197 tiles
+Turn 94, total=201, hits=46 (22.885572139303484)
+
+doing turn 95
+controll 201 tiles
+Turn 95, total=205, hits=38 (18.536585365853657)
+
+doing turn 96
+controll 205 tiles
+Turn 96, total=207, hits=36 (17.391304347826086)
+
+doing turn 97
+controll 207 tiles
+Turn 97, total=209, hits=42 (20.095693779904305)
+
+doing turn 98
+controll 209 tiles
+Turn 98, total=210, hits=35 (16.666666666666668)
+
+doing turn 99
+controll 210 tiles
+Turn 99, total=214, hits=44 (20.560747663551403)
+
+doing turn 100
+controll 214 tiles
+Turn 100, total=219, hits=44 (20.091324200913242)
+
+doing turn 101
+controll 219 tiles
+Turn 101, total=216, hits=38 (17.59259259259259)
+
+doing turn 102
+controll 216 tiles
+Turn 102, total=228, hits=40 (17.54385964912281)
+
+doing turn 103
+controll 228 tiles
+Turn 103, total=242, hits=47 (19.421487603305785)
+
+doing turn 104
+controll 242 tiles
+Turn 104, total=242, hits=38 (15.702479338842975)
+
+doing turn 105
+controll 242 tiles
+Turn 105, total=253, hits=48 (18.972332015810277)
+
+doing turn 106
+controll 253 tiles
+Turn 106, total=265, hits=48 (18.11320754716981)
+
+doing turn 107
+controll 265 tiles
+Turn 107, total=275, hits=51 (18.545454545454547)
+
+doing turn 108
+controll 275 tiles
+Turn 108, total=280, hits=61 (21.785714285714285)
+
+doing turn 109
+controll 280 tiles
+Turn 109, total=296, hits=56 (18.91891891891892)
+
+doing turn 110
+controll 296 tiles
+Turn 110, total=302, hits=64 (21.192052980132452)
+
+doing turn 111
+controll 302 tiles
+Turn 111, total=305, hits=77 (25.24590163934426)
+
+doing turn 112
+controll 305 tiles
+Turn 112, total=320, hits=75 (23.4375)
+
+doing turn 113
+controll 320 tiles
+Turn 113, total=327, hits=82 (25.07645259938838)
+
+doing turn 114
+controll 327 tiles
+Turn 114, total=343, hits=82 (23.9067055393586)
+
+doing turn 115
+controll 343 tiles
+Turn 115, total=351, hits=79 (22.507122507122507)
+
+doing turn 116
+controll 351 tiles
+Turn 116, total=362, hits=86 (23.756906077348066)
+
+doing turn 117
+controll 362 tiles
+Turn 117, total=373, hits=79 (21.179624664879356)
+
+doing turn 118
+controll 373 tiles
+Turn 118, total=385, hits=88 (22.857142857142858)
