@@ -7,20 +7,20 @@ from .group import Group
 from .manager import GameManager
 
 
-class V6 (Strategy):
+class V7 (Strategy):
     GROUP_SIZE = 3
     GROUP_CUTOFF = 9
 
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
 
-        self.groups = [Group([], FastExpandStrategy(*args, **kwargs)) for a in range(int(V6.GROUP_CUTOFF / V6.GROUP_SIZE))]
+        self.groups = [Group([], FastExpandStrategy(*args, **kwargs)) for a in range(int(V7.GROUP_CUTOFF / V7.GROUP_SIZE))]
         self.plan = Plan()
 
     def do_turn(self):
 
         # split into groups and fast expand
-        if Strategy.owned_tiles <= V6.GROUP_CUTOFF:
+        if Strategy.owned_tiles <= V7.GROUP_CUTOFF:
 
             # check for new tiles to assign
             for tile in self.our_map_locations():
@@ -32,7 +32,7 @@ class V6 (Strategy):
 
                 if not has_g:
                     for group in self.groups:
-                        if len(group) < V6.GROUP_SIZE:
+                        if len(group) < V7.GROUP_SIZE:
                             group.append(tile)
                             break
 

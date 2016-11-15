@@ -1,6 +1,6 @@
 from .networking import *
 from .logger import Log
-from .strat_v6 import V6
+from .strat_v7 import V7
 from .manager import GameManager
 
 
@@ -17,7 +17,7 @@ def run():
     GameManager.ID = my_id
     GameManager.log = log
 
-    s = V6()
+    s = V7()
 
     sendInit(BOT_NAME)
 
